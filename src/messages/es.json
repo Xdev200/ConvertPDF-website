@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "title": "ConvertPDF – Todas tus herramientas PDF en línea",
+    "description": "Convierte, une, firma y comprime PDF con unos pocos clics.",
+    "privacyTitle": "Política de privacidad – ConvertPDF",
+    "termsTitle": "Condiciones de uso – ConvertPDF",
+    "supportTitle": "Support – ConvertPDF"
+  },
+  "skip": "Saltar al contenido",
+  "nav": {
+    "tools": "Herramientas",
+    "merge": "Unir PDF",
+    "sign": "Firmar PDF",
+    "pricing": "Precios",
+    "files": "Mis archivos",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Todas tus <b>herramientas PDF en línea.</b>",
+    "text": "Creamos herramientas PDF para hacerte la vida más fácil. Convierte archivos a PDF y desde PDF, une, rellena, firma y comprime PDF con unos pocos clics, directamente en tu Mac o iPhone.",
+    "explore": "Explorar herramientas",
+    "demo": "Probar la demo"
+  },
+  "tools": {
+    "title": "Herramientas PDF más populares",
+    "all": "Ver las 91 herramientas",
+    "items": [
+      [
+        "Word a PDF",
+        "Convierte archivos Word DOC y DOCX a PDF."
+      ],
+      [
+        "PDF a Word",
+        "Convierte tu PDF en un documento DOC o DOCX editable."
+      ],
+      [
+        "Excel a PDF",
+        "Convierte hojas de cálculo de Excel a PDF y compártelas fácilmente."
+      ],
+      [
+        "PDF a Excel",
+        "Extrae las tablas de un PDF a una hoja de cálculo de Excel."
+      ],
+      [
+        "PDF a PowerPoint",
+        "Transforma PDF en presentaciones PPT y PPTX editables."
+      ],
+      [
+        "PDF a EPUB",
+        "Convierte un PDF en un libro electrónico adaptable o de diseño fijo para cualquier lector."
+      ],
+      [
+        "PowerPoint a PDF",
+        "Convierte presentaciones de PowerPoint a PDF para compartirlas fácilmente."
+      ],
+      [
+        "Imágenes a PDF",
+        "Convierte JPG, PNG, BMP y muchos más formatos de imagen a PDF."
+      ],
+      [
+        "PDF a imágenes",
+        "Convierte y extrae cada página de tu PDF en imágenes."
+      ],
+      [
+        "PNG a PDF",
+        "Convierte tus imágenes PNG en archivos PDF legibles."
+      ],
+      [
+        "PDF a PNG",
+        "Extrae cada página de tu PDF y conviértela a PNG."
+      ],
+      [
+        "JPG a PDF",
+        "Convierte archivos JPG y JPEG a PDF en unos segundos."
+      ],
+      [
+        "BMP a PDF",
+        "Convierte tus imágenes BMP en documentos PDF fácilmente."
+      ],
+      [
+        "Firmar PDF",
+        "Crea tu propia firma digital y firma archivos PDF en línea."
+      ],
+      [
+        "Rellenar formulario PDF",
+        "Añade texto a un PDF y rellena los campos vacíos de tu formulario."
+      ],
+      [
+        "Unir PDF",
+        "Une varios archivos PDF en un único documento."
+      ],
+      [
+        "Extraer páginas de PDF",
+        "Divide tu PDF y extrae solo las páginas que quieras."
+      ]
+    ]
+  },
+  "converter": {
+    "title": "Convierte <b>PDF</b> a <b>Word</b> en segundos",
+    "demo": "Solo demostración — no funcional",
+    "choose": "Elegir archivos",
+    "drop": "o suelta el archivo aquí",
+    "convert": "Convertir ahora",
+    "howTitle": "Cómo convertir PDF a Word",
+    "steps": [
+      "Arrastra y suelta tu archivo PDF, o elígelo desde tu dispositivo.",
+      "Elige Word como formato de salida.",
+      "Pulsa CONVERTIR AHORA y espera unos segundos.",
+      "Descarga tu DOCX editable: nada sale de tu dispositivo."
+    ]
+  },
+  "pricing": {
+    "title": "Precios sencillos",
+    "note": "Precios de ejemplo — los planes finales se anunciarán más adelante.",
+    "popular": "Más popular",
+    "plans": [
+      {
+        "name": "Gratis",
+        "unit": "/mes",
+        "features": [
+          "Herramientas básicas",
+          "Funciona en tu dispositivo",
+          "Velocidad estándar"
+        ],
+        "cta": "Obtener Gratis"
+      },
+      {
+        "name": "Pro",
+        "unit": "/mes",
+        "features": [
+          "Las 91 herramientas",
+          "Procesamiento por lotes",
+          "Soporte prioritario"
+        ],
+        "cta": "Obtener Pro"
+      },
+      {
+        "name": "Equipo",
+        "unit": "/usuario/mes",
+        "features": [
+          "Ajustes compartidos",
+          "Controles de administrador",
+          "Soporte prioritario"
+        ],
+        "cta": "Contáctanos"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      [
+        "¿Se suben mis archivos?",
+        "No. ConvertPDF procesa los archivos en tu dispositivo."
+      ],
+      [
+        "¿Es realmente gratis?",
+        "El plan Gratis incluye las herramientas básicas. Los precios de Pro y Equipo son de ejemplo."
+      ],
+      [
+        "¿Qué plataformas son compatibles?",
+        "macOS e iOS, además de este sitio web."
+      ],
+      [
+        "¿Puedo usarlo sin conexión?",
+        "Sí, las apps funcionan sin conexión a internet."
+      ]
+    ]
+  },
+  "cta": {
+    "title": "Haz crecer tu negocio, <b>con facilidad.</b>",
+    "button": "Empezar"
+  },
+  "apps": {
+    "title": "Consigue las apps de ConvertPDF",
+    "note": "Enlaces de ejemplo — las apps aún no están publicadas.",
+    "mac": [
+      "Descargar para Mac",
+      "macOS 13 o posterior"
+    ],
+    "ios": [
+      "Descargar para iOS",
+      "iPhone y iPad"
+    ]
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Condiciones de uso",
+    "pricing": "Precios",
+    "support": "Support"
+  },
+  "legal": {
+    "noticeLabel": "Aviso de plantilla:",
+    "notice": "Este documento es una plantilla y debe ser revisado por un abogado cualificado antes de su uso. No constituye asesoramiento legal.",
+    "updated": "Última actualización"
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "updated": "octubre de 2026 (borrador)",
+    "sections": [
+      [
+        "Resumen",
+        "ConvertPDF («nosotros») respeta tu privacidad. ConvertPDF procesa tus archivos de forma local en tu dispositivo. No subimos, almacenamos ni vemos tus documentos."
+      ],
+      [
+        "Tus archivos",
+        "La conversión, unión, división, compresión y firma se realizan en tu dispositivo. Tus archivos no se envían a nuestros servidores."
+      ],
+      [
+        "Información que podemos recopilar",
+        [
+          "Datos básicos de uso o fallos, no identificativos, solo si das tu consentimiento.",
+          "Información de compra y licencia gestionada por la tienda de aplicaciones o el proveedor de pagos.",
+          "Información que nos envíes al contactar con soporte."
+        ]
+      ],
+      [
+        "Sitio web",
+        "Este sitio web puede usar cookies esenciales y analítica respetuosa con la privacidad. [Describir las herramientas reales antes del lanzamiento.]"
+      ],
+      [
+        "Compartición",
+        "No vendemos información personal. Podemos compartir datos limitados con proveedores de servicios que nos ayudan a operar el producto, o cuando la ley lo exija."
+      ],
+      [
+        "Conservación y seguridad",
+        "Conservamos datos limitados solo el tiempo necesario y aplicamos medidas de protección razonables."
+      ],
+      [
+        "Tus derechos",
+        "Según dónde vivas, puedes tener derecho a acceder a tus datos personales, rectificarlos o eliminarlos. Contáctanos para ejercerlos."
+      ],
+      [
+        "Menores",
+        "ConvertPDF no está dirigido a menores de 13 años."
+      ],
+      [
+        "Cambios",
+        "Podemos actualizar esta política y publicaremos aquí la nueva fecha."
+      ],
+      [
+        "Contacto",
+        "[marcador de correo de contacto]"
+      ]
+    ]
+  },
+  "terms": {
+    "title": "Condiciones de uso",
+    "updated": "octubre de 2026 (borrador)",
+    "sections": [
+      [
+        "Aceptación",
+        "Al usar ConvertPDF o este sitio web aceptas estas condiciones. Si no estás de acuerdo, no los uses."
+      ],
+      [
+        "Licencia",
+        "Te concedemos una licencia limitada, no exclusiva, intransferible y revocable para usar ConvertPDF con fines personales o comerciales internos, según tu plan."
+      ],
+      [
+        "Uso aceptable",
+        [
+          "No uses ConvertPDF con fines ilícitos ni para infringir los derechos de otros.",
+          "No realices ingeniería inversa ni revendas la app, salvo en los casos permitidos por la ley."
+        ]
+      ],
+      [
+        "Tu contenido",
+        "Conservas todos los derechos sobre tus archivos y eres responsable de tener derecho a procesarlos."
+      ],
+      [
+        "Planes y pagos",
+        "Los planes de pago se facturan a través de la tienda de aplicaciones o el proveedor de pagos correspondiente. Los precios y las funciones pueden cambiar. [Marcador de condiciones de reembolso.]"
+      ],
+      [
+        "Exención de responsabilidad",
+        "ConvertPDF se proporciona «tal cual», sin garantías de ningún tipo. Haz copias de seguridad de tus archivos importantes."
+      ],
+      [
+        "Limitación de responsabilidad",
+        "En la máxima medida permitida por la ley, no somos responsables de daños indirectos o consecuentes ni de la pérdida de datos."
+      ],
+      [
+        "Terminación",
+        "Podemos suspender el acceso si incumples estas condiciones."
+      ],
+      [
+        "Ley aplicable",
+        "[Marcador de jurisdicción.]"
+      ],
+      [
+        "Contacto",
+        "[marcador de correo de contacto]"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "updated": "October 27, 2026",
+    "sections": [
+      [
+        "How to get help",
+        "ConvertPDF is a native iPhone, iPad, and Mac app. For help with the app, use the App Store product page (Ratings & Reviews or the Support link once published), or email us."
+      ],
+      [
+        "App Store",
+        "Search for “ConvertPDF” on the App Store after release, open the product page, and use Apple’s support / review channels. Universal Purchase covers iPhone, iPad, and Mac."
+      ],
+      [
+        "Email",
+        "support@convertpdf.app — placeholder mailbox until the live inbox is configured. Include your device model, OS version, and a short description of the issue. Do not attach confidential PDFs."
+      ],
+      [
+        "Privacy & files",
+        "We cannot recover files from your device. ConvertPDF does not upload documents to our servers, so support cannot access your PDFs."
+      ],
+      [
+        "Website",
+        "This site hosts Privacy Policy, Terms of Use, and Support for App Store Connect. It does not process PDFs in the browser for production use."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "title": "ConvertPDF – 一站式在线 PDF 工具",
+    "description": "只需几次点击，即可转换、合并、签名和压缩 PDF。",
+    "privacyTitle": "隐私政策 – ConvertPDF",
+    "termsTitle": "使用条款 – ConvertPDF",
+    "supportTitle": "Support – ConvertPDF"
+  },
+  "skip": "跳到主要内容",
+  "nav": {
+    "tools": "工具",
+    "merge": "合并 PDF",
+    "sign": "PDF 签名",
+    "pricing": "价格",
+    "files": "我的文件",
+    "login": "登录",
+    "signup": "注册",
+    "language": "语言"
+  },
+  "hero": {
+    "title": "一站式<b>在线 PDF 工具。</b>",
+    "text": "我们打造 PDF 工具，让您的生活更轻松。转换为 PDF、从 PDF 转换、合并、填写、签名和压缩 PDF，只需几次点击——直接在您的 Mac 或 iPhone 上完成。",
+    "explore": "探索工具",
+    "demo": "试用演示"
+  },
+  "tools": {
+    "title": "最受欢迎的 PDF 工具",
+    "all": "查看全部 91 个工具",
+    "items": [
+      [
+        "Word 转 PDF",
+        "将 Word DOC 和 DOCX 文件转换为 PDF。"
+      ],
+      [
+        "PDF 转 Word",
+        "将 PDF 转换为可编辑的 DOC 或 DOCX 文档。"
+      ],
+      [
+        "Excel 转 PDF",
+        "将 Excel 表格转换为 PDF，方便分享。"
+      ],
+      [
+        "PDF 转 Excel",
+        "将 PDF 中的表格提取到 Excel 电子表格。"
+      ],
+      [
+        "PDF 转 PowerPoint",
+        "将 PDF 转换为可编辑的 PPT 和 PPTX 演示文稿。"
+      ],
+      [
+        "PDF 转 EPUB",
+        "将 PDF 转换为可重排或固定版式的电子书，适用于任何阅读器。"
+      ],
+      [
+        "PowerPoint 转 PDF",
+        "将 PowerPoint 幻灯片转换为 PDF，方便分享。"
+      ],
+      [
+        "图片转 PDF",
+        "将 JPG、PNG、BMP 等多种图片格式转换为 PDF。"
+      ],
+      [
+        "PDF 转图片",
+        "将 PDF 的每一页转换并提取为图片。"
+      ],
+      [
+        "PNG 转 PDF",
+        "将 PNG 图片转为易于阅读的 PDF 文件。"
+      ],
+      [
+        "PDF 转 PNG",
+        "提取 PDF 的每一页并转换为 PNG。"
+      ],
+      [
+        "JPG 转 PDF",
+        "几秒钟内将 JPG 和 JPEG 文件转换为 PDF。"
+      ],
+      [
+        "BMP 转 PDF",
+        "轻松将 BMP 图片转换为 PDF 文档。"
+      ],
+      [
+        "PDF 签名",
+        "创建您自己的数字签名，在线为 PDF 文件签名。"
+      ],
+      [
+        "填写 PDF 表单",
+        "向 PDF 添加文字，并填写表单中的空白字段。"
+      ],
+      [
+        "合并 PDF",
+        "将多个 PDF 文件合并为一个文档。"
+      ],
+      [
+        "提取 PDF 页面",
+        "拆分 PDF，只提取您需要的页面。"
+      ]
+    ]
+  },
+  "converter": {
+    "title": "几秒钟内将 <b>PDF</b> 转换为 <b>Word</b>",
+    "demo": "仅为演示 — 无实际功能",
+    "choose": "选择文件",
+    "drop": "或将文件拖放到此处",
+    "convert": "立即转换",
+    "howTitle": "如何将 PDF 转换为 Word",
+    "steps": [
+      "拖放您的 PDF 文件，或从设备中选择。",
+      "选择 Word 作为输出格式。",
+      "点击“立即转换”，稍等几秒钟。",
+      "下载可编辑的 DOCX——所有内容都不会离开您的设备。"
+    ]
+  },
+  "pricing": {
+    "title": "简单透明的价格",
+    "note": "示例价格 — 正式方案将另行公布。",
+    "popular": "最受欢迎",
+    "plans": [
+      {
+        "name": "免费版",
+        "unit": "/月",
+        "features": [
+          "核心工具",
+          "在您的设备上运行",
+          "标准速度"
+        ],
+        "cta": "获取免费版"
+      },
+      {
+        "name": "专业版",
+        "unit": "/月",
+        "features": [
+          "全部 91 个工具",
+          "批量处理",
+          "优先支持"
+        ],
+        "cta": "获取专业版"
+      },
+      {
+        "name": "团队版",
+        "unit": "/用户/月",
+        "features": [
+          "共享预设",
+          "管理员控制",
+          "优先支持"
+        ],
+        "cta": "联系我们"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      [
+        "我的文件会被上传吗？",
+        "不会。ConvertPDF 在您的设备上处理文件。"
+      ],
+      [
+        "真的免费吗？",
+        "免费版包含核心工具。专业版和团队版的价格为示例。"
+      ],
+      [
+        "支持哪些平台？",
+        "macOS 和 iOS，以及本网站。"
+      ],
+      [
+        "可以离线使用吗？",
+        "可以，应用无需网络连接即可使用。"
+      ]
+    ]
+  },
+  "cta": {
+    "title": "轻松发展您的业务，<b>从这里开始。</b>",
+    "button": "立即开始"
+  },
+  "apps": {
+    "title": "获取 ConvertPDF 应用",
+    "note": "示例链接 — 应用尚未发布。",
+    "mac": [
+      "下载 Mac 版",
+      "macOS 13 或更高版本"
+    ],
+    "ios": [
+      "下载 iOS 版",
+      "iPhone 和 iPad"
+    ]
+  },
+  "footer": {
+    "rights": "保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "pricing": "价格",
+    "support": "Support"
+  },
+  "legal": {
+    "noticeLabel": "模板提示：",
+    "notice": "本文档为模板，使用前需由合格律师审核。它不构成法律建议。",
+    "updated": "最后更新"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "updated": "2026 年 10 月（草稿）",
+    "sections": [
+      [
+        "概述",
+        "ConvertPDF（“我们”）尊重您的隐私。ConvertPDF 在您的设备上本地处理文件。我们不会上传、存储或查看您的文档。"
+      ],
+      [
+        "您的文件",
+        "转换、合并、拆分、压缩和签名均在您的设备上完成。您的文件不会传输到我们的服务器。"
+      ],
+      [
+        "我们可能收集的信息",
+        [
+          "基本的、不可识别身份的使用或崩溃诊断信息，仅在您选择加入时收集。",
+          "由应用商店或支付服务商处理的购买和许可信息。",
+          "您联系支持时发送给我们的信息。"
+        ]
+      ],
+      [
+        "网站",
+        "本网站可能使用必要的 Cookie 和注重隐私的分析工具。[上线前请说明实际使用的工具。]"
+      ],
+      [
+        "共享",
+        "我们不出售个人信息。我们可能与协助运营产品的服务提供商共享有限的数据，或在法律要求时共享。"
+      ],
+      [
+        "保留与安全",
+        "我们仅在必要期限内保留有限的数据，并采取合理的保护措施。"
+      ],
+      [
+        "您的权利",
+        "根据您所在地区，您可能有权访问、更正或删除您的个人数据。请联系我们行使这些权利。"
+      ],
+      [
+        "儿童",
+        "ConvertPDF 不面向 13 岁以下儿童。"
+      ],
+      [
+        "变更",
+        "我们可能更新本政策，并会在此处发布新的日期。"
+      ],
+      [
+        "联系方式",
+        "[联系邮箱占位符]"
+      ]
+    ]
+  },
+  "terms": {
+    "title": "使用条款",
+    "updated": "2026 年 10 月（草稿）",
+    "sections": [
+      [
+        "接受条款",
+        "使用 ConvertPDF 或本网站即表示您同意这些条款。如果不同意，请勿使用。"
+      ],
+      [
+        "许可",
+        "根据您的方案，我们授予您有限的、非排他的、不可转让的、可撤销的许可，允许您将 ConvertPDF 用于个人或内部业务目的。"
+      ],
+      [
+        "可接受的使用",
+        [
+          "请勿将 ConvertPDF 用于非法目的或侵犯他人权利。",
+          "除法律允许外，请勿对应用进行逆向工程或转售。"
+        ]
+      ],
+      [
+        "您的内容",
+        "您保留对您文件的所有权利，并有责任确保您有权处理这些文件。"
+      ],
+      [
+        "方案与付款",
+        "付费方案通过相应的应用商店或支付服务商计费。价格和功能可能发生变化。[退款条款占位符。]"
+      ],
+      [
+        "免责声明",
+        "ConvertPDF 按“现状”提供，不附带任何形式的保证。请备份重要文件。"
+      ],
+      [
+        "责任限制",
+        "在法律允许的最大范围内，我们不对间接或后果性损失或数据丢失承担责任。"
+      ],
+      [
+        "终止",
+        "如果您违反这些条款，我们可能会暂停您的访问。"
+      ],
+      [
+        "适用法律",
+        "[管辖地占位符。]"
+      ],
+      [
+        "联系方式",
+        "[联系邮箱占位符]"
+      ]
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "updated": "October 27, 2026",
+    "sections": [
+      [
+        "How to get help",
+        "ConvertPDF is a native iPhone, iPad, and Mac app. For help with the app, use the App Store product page (Ratings & Reviews or the Support link once published), or email us."
+      ],
+      [
+        "App Store",
+        "Search for “ConvertPDF” on the App Store after release, open the product page, and use Apple’s support / review channels. Universal Purchase covers iPhone, iPad, and Mac."
+      ],
+      [
+        "Email",
+        "support@convertpdf.app — placeholder mailbox until the live inbox is configured. Include your device model, OS version, and a short description of the issue. Do not attach confidential PDFs."
+      ],
+      [
+        "Privacy & files",
+        "We cannot recover files from your device. ConvertPDF does not upload documents to our servers, so support cannot access your PDFs."
+      ],
+      [
+        "Website",
+        "This site hosts Privacy Policy, Terms of Use, and Support for App Store Connect. It does not process PDFs in the browser for production use."
+      ]
+    ]
+  }
+}

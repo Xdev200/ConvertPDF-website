@@ -1,0 +1,16 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+html{scroll-behavior:smooth}
+body{@apply bg-bg text-navy antialiased font-sans}
+.wrap{@apply mx-auto max-w-6xl px-5}
+.btn{@apply inline-flex items-center justify-center rounded-[5px] bg-brand px-6 py-3 text-sm font-semibold text-white transition hover:bg-brandDark focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand}
+.btn-o{@apply inline-flex items-center justify-center rounded-[5px] border border-brand bg-white px-6 py-3 text-sm font-semibold text-brand transition hover:bg-[#FEF2F2] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand}
+.card{@apply rounded-md border border-line bg-white p-5}
+.stripes{background:repeating-linear-gradient(180deg,#E31E24 0 4px,transparent 4px 12px);opacity:.75}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+html[lang=hi] body{font-family:var(--font-hi),var(--font-p),system-ui,sans-serif}
+html[lang=ar] body{font-family:var(--font-ar),var(--font-p),system-ui,sans-serif}
+html[lang=ja] body{font-family:var(--font-p),"Hiragino Sans","Yu Gothic","Noto Sans JP","Meiryo",system-ui,sans-serif}
+html[lang=ko] body{font-family:var(--font-p),"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",system-ui,sans-serif}
+html[lang=zh] body{font-family:var(--font-p),"PingFang SC","Microsoft YaHei","Noto Sans SC",system-ui,sans-serif}
+html[lang=zh-TW] body{font-family:var(--font-p),"PingFang TC","Microsoft JhengHei","Noto Sans TC",system-ui,sans-serif}
+html[lang=hi] .uppercase,html[lang=ar] .uppercase{text-transform:none}
