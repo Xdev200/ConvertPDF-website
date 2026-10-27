@@ -32,3 +32,4 @@ yarn-error.log*
 # screenshots / local only
 screenshot*.png
 shot-*.png
+.env*
