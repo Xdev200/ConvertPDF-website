@@ -112,35 +112,23 @@
     ]
   },
   "pricing": {
-    "title": "सरल कीमत",
-    "note": "100% ऑफ़लाइन। मुख्य टूल मुफ़्त रहेंगे। एक खरीद से सभी एडवांस्ड टूल हमेशा के लिए — कोई सब्सक्रिप्शन नहीं, कोई फ्री ट्रायल नहीं।",
-    "popular": "सबसे अच्छा",
-    "refundBadge": "14 दिन पूरा रिफंड · बिना सवाल",
+    "title": "सीधी कीमत",
+    "note": "केवल एक प्लान। ConvertPDF Lifetime एक बार $4.99 में खरीदें। पसंद न आए तो रिफंड माँगें — 14 दिन, बिना सवाल। कोई सब्सक्रिप्शन नहीं। कोई फ्री ट्रायल नहीं।",
+    "popular": "एक बार खरीद",
+    "refundBadge": "पसंद नहीं आया? रिफंड माँगें — 14 दिन, बिना सवाल",
     "plans": [
       {
-        "name": "फ़्री",
-        "price": "$0",
-        "unit": "हमेशा",
-        "features": [
-          "मर्ज, स्प्लिट, कंप्रेस",
-          "इमेज ↔ PDF, व्यवस्थित करें",
-          "100% आपके डिवाइस पर",
-          "खाता नहीं"
-        ],
-        "cta": "ऐप लें"
-      },
-      {
-        "name": "Lifetime Pro",
+        "name": "Lifetime",
         "price": "$4.99",
         "unit": "एक बार",
         "features": [
-          "90+ टूल हमेशा के लिए",
-          "OCR, साइन, प्रोटेक्ट, रेडैक्ट",
+          "सभी 90+ टूल हमेशा के लिए",
+          "OCR, साइन, प्रोटेक्ट, रीडैक्ट",
           "Word, Excel, EPUB और बैच",
-          "एक Universal Purchase",
-          "14 दिन बिना शर्त रिफंड"
+          "एक यूनिवर्सल परचेस (iPhone, iPad, Mac)",
+          "14-दिन बिना शर्त रिफंड"
         ],
-        "cta": "Lifetime अनलॉक — $4.99"
+        "cta": "खरीदें — $4.99"
       }
     ]
   },
@@ -153,15 +141,15 @@
       ],
       [
         "क्या मुफ़्त है?",
-        "मुख्य टूल हमेशा मुफ़्त। ConvertPDF Lifetime एक बार $4.99 — कोई सब्सक्रिप्शन/ट्रायल नहीं।"
+        "मुख्य टूल (मर्ज, स्प्लिट, कम्प्रेस, इमेज↔PDF, ऑर्गनाइज़) हमेशा मुफ़्त रहते हैं। केवल एक खरीद है: ConvertPDF Lifetime एक बार $4.99 — कोई सब्सक्रिप्शन या ट्रायल नहीं। Lifetime पसंद न आए तो 14 दिनों में रिफंड माँगें।"
       ],
       [
         "ConvertPDF Lifetime क्या है?",
-        "एक बार का non-consumable IAP ($4.99)। उसी Apple ID पर हमेशा के लिए Pro।"
+        "एकमात्र पेड प्लान। App Store का नॉन-कंज्यूमेबल परचेस ($4.99 USD) जो उसी Apple ID पर iPhone, iPad और Mac पर सभी Pro टूल हमेशा के लिए अनलॉक करता है। Restore Purchases नए डिवाइस पर वापस लाता है। पसंद न आए तो 14 दिनों में रिफंड।"
       ],
       [
         "फ्री ट्रायल?",
-        "नहीं।"
+        "नहीं। कोई फ्री ट्रायल या ऑटो-रिन्यूइंग सब्सक्रिप्शन नहीं। केवल एक खरीद: ConvertPDF Lifetime एक बार $4.99। पसंद न आए तो 14 दिनों में रिफंड माँगें।"
       ],
       [
         "रिफंड नीति?",
@@ -178,8 +166,8 @@
     ]
   },
   "cta": {
-    "title": "सभी टूल अनलॉक, <b>एक बार।</b>",
-    "button": "कीमत देखें"
+    "title": "एक खरीद। <b>सारे टूल।</b>",
+    "button": "खरीदें — $4.99"
   },
   "apps": {
     "title": "ConvertPDF ऐप्स पाएँ",
@@ -272,7 +260,7 @@
       ],
       [
         "Licence",
-        "We grant you a limited, non-exclusive, non-transferable, revocable licence to use ConvertPDF for personal or internal business purposes, subject to Apple’s App Store terms. Free tier tools may be used without purchase. ConvertPDF Lifetime is a paid licence that unlocks all advanced tools forever on devices signed in with the purchasing Apple ID (Universal Purchase: iPhone, iPad, and Mac)."
+        "हम आपको Apple के App Store नियमों के अधीन व्यक्तिगत या आंतरिक व्यावसायिक उपयोग के लिए ConvertPDF का सीमित, गैर-विशिष्ट, गैर-हस्तांतरणीय, रद्द करने योग्य लाइसेंस देते हैं। मुख्य टूल (मर्ज, स्प्लिट, कम्प्रेस, इमेज↔PDF, ऑर्गनाइज़) बिना खरीद के इस्तेमाल हो सकते हैं। केवल एक पेड प्लान है: ConvertPDF Lifetime — खरीद वाले Apple ID से साइन-इन डिवाइस पर सभी एडवांस्ड टूल हमेशा के लिए अनलॉक करने वाली एक बार की $4.99 खरीद (यूनिवर्सल परचेस: iPhone, iPad और Mac)।"
       ],
       [
         "ConvertPDF Lifetime (one-time purchase)",
@@ -305,7 +293,7 @@
       ],
       [
         "Plans and payments",
-        "There is no subscription. Optional ConvertPDF Lifetime is billed once through Apple In-App Purchase. Website pricing describes the intended App Store offer. Apple’s standard refund mechanisms also apply in addition to our 14-day promise."
+        "केवल एक पेड प्लान है: ConvertPDF Lifetime, Apple In-App Purchase से एक बार $4.99। कोई सब्सक्रिप्शन या ट्रायल नहीं। पसंद न आए तो 14 दिनों में रिफंड माँगें। वेबसाइट कीमत इसी App Store ऑफ़र को बताती है। हमारे 14-दिन वादे के अलावा Apple के मानक रिफंड भी लागू होते हैं।"
       ],
       [
         "Disclaimer",

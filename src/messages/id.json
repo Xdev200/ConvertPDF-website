@@ -113,34 +113,22 @@
   },
   "pricing": {
     "title": "Harga sederhana",
-    "note": "100% offline. Alat inti tetap gratis. Buka semua alat lanjutan selamanya dengan satu pembelian — tanpa langganan, tanpa uji coba gratis.",
-    "popular": "Nilai terbaik",
-    "refundBadge": "Refund penuh 14 hari · tanpa pertanyaan",
+    "note": "Hanya satu paket. Beli ConvertPDF Lifetime seharga $4.99 sekali. Jika tidak suka, minta pengembalian dana — 14 hari, tanpa pertanyaan. Tanpa langganan. Tanpa uji coba gratis.",
+    "popular": "Pembelian sekali",
+    "refundBadge": "Tidak suka? Minta pengembalian dana — 14 hari, tanpa pertanyaan",
     "plans": [
       {
-        "name": "Gratis",
-        "price": "$0",
-        "unit": "selamanya",
-        "features": [
-          "Gabung, Pisah, Kompres",
-          "Gambar ↔ PDF, Atur",
-          "100% di perangkat",
-          "Tanpa akun"
-        ],
-        "cta": "Dapatkan app"
-      },
-      {
-        "name": "Lifetime Pro",
+        "name": "Lifetime",
         "price": "$4.99",
         "unit": "sekali",
         "features": [
           "Semua 90+ alat selamanya",
           "OCR, Tanda tangan, Lindungi, Redaksi",
           "Word, Excel, EPUB & batch",
-          "Satu Universal Purchase",
-          "Refund tanpa syarat 14 hari"
+          "Satu Pembelian Universal (iPhone, iPad, Mac)",
+          "Pengembalian dana tanpa syarat 14 hari"
         ],
-        "cta": "Buka Lifetime — $4.99"
+        "cta": "Beli — $4.99"
       }
     ]
   },
@@ -153,15 +141,15 @@
       ],
       [
         "Gratis?",
-        "Inti gratis selamanya. Lifetime $4.99 sekali — tanpa langganan/uji coba."
+        "Alat inti (Gabungkan, Pisahkan, Kompres, Gambar↔PDF, Atur) tetap gratis selamanya. Hanya ada satu pembelian: ConvertPDF Lifetime $4.99 sekali — tanpa langganan atau uji coba. Jika Lifetime tidak cocok, minta pengembalian dana dalam 14 hari."
       ],
       [
         "Apa itu ConvertPDF Lifetime?",
-        "Pembelian non-konsumsi sekali ($4.99)."
+        "Satu-satunya paket berbayar. Pembelian non-konsumsi App Store ($4.99 USD) yang membuka semua alat Pro selamanya di iPhone, iPad, dan Mac dengan Apple ID yang sama. Pulihkan Pembelian memulihkannya di perangkat baru. Jika tidak suka, pengembalian dana dalam 14 hari."
       ],
       [
         "Uji coba gratis?",
-        "Tidak."
+        "Tidak. Tidak ada uji coba gratis dan tidak ada langganan. Hanya ada satu pembelian: ConvertPDF Lifetime $4.99 sekali. Jika tidak suka, minta pengembalian dana dalam 14 hari."
       ],
       [
         "Kebijakan refund?",
@@ -178,8 +166,8 @@
     ]
   },
   "cta": {
-    "title": "Buka semua, <b>sekali saja.</b>",
-    "button": "Lihat harga"
+    "title": "Satu pembelian. <b>Semua alat.</b>",
+    "button": "Beli — $4.99"
   },
   "apps": {
     "title": "Dapatkan aplikasi ConvertPDF",
@@ -272,7 +260,7 @@
       ],
       [
         "Licence",
-        "We grant you a limited, non-exclusive, non-transferable, revocable licence to use ConvertPDF for personal or internal business purposes, subject to Apple’s App Store terms. Free tier tools may be used without purchase. ConvertPDF Lifetime is a paid licence that unlocks all advanced tools forever on devices signed in with the purchasing Apple ID (Universal Purchase: iPhone, iPad, and Mac)."
+        "Kami memberi Anda lisensi terbatas, non-eksklusif, tidak dapat dipindahtangankan, dan dapat dicabut untuk menggunakan ConvertPDF untuk keperluan pribadi atau bisnis internal, tunduk pada ketentuan App Store Apple. Alat inti (Gabungkan, Pisahkan, Kompres, Gambar↔PDF, Atur) dapat digunakan tanpa pembelian. Hanya ada satu paket berbayar: ConvertPDF Lifetime — pembelian sekali $4.99 yang membuka semua alat lanjutan selamanya di perangkat yang masuk dengan Apple ID pembelian (Pembelian Universal: iPhone, iPad, dan Mac)."
       ],
       [
         "ConvertPDF Lifetime (one-time purchase)",
@@ -305,7 +293,7 @@
       ],
       [
         "Plans and payments",
-        "There is no subscription. Optional ConvertPDF Lifetime is billed once through Apple In-App Purchase. Website pricing describes the intended App Store offer. Apple’s standard refund mechanisms also apply in addition to our 14-day promise."
+        "Hanya ada satu paket berbayar: ConvertPDF Lifetime, ditagih sekali melalui Pembelian Dalam Aplikasi Apple seharga $4.99. Tanpa langganan dan tanpa uji coba. Jika tidak suka, minta pengembalian dana dalam 14 hari. Harga situs menjelaskan penawaran App Store ini. Mekanisme pengembalian standar Apple juga berlaku selain janji 14 hari kami."
       ],
       [
         "Disclaimer",

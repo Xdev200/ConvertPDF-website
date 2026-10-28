@@ -113,26 +113,14 @@
   },
   "pricing": {
     "title": "Einfache Preise",
-    "note": "100 % offline. Kernfunktionen bleiben kostenlos. Alle Pro-Tools für immer mit einem Kauf — kein Abo, keine Testphase.",
-    "popular": "Bester Preis",
-    "refundBadge": "14 Tage volle Rückerstattung · ohne Fragen",
+    "note": "Nur ein Plan. Kaufen Sie ConvertPDF Lifetime einmal für 4,99 $. Wenn es Ihnen nicht gefällt, fordern Sie eine Rückerstattung an — 14 Tage, ohne Fragen. Kein Abo. Keine Testversion.",
+    "popular": "Einmalkauf",
+    "refundBadge": "Nicht zufrieden? Rückerstattung beantragen — 14 Tage, ohne Fragen",
     "plans": [
       {
-        "name": "Free",
-        "price": "$0",
-        "unit": "für immer",
-        "features": [
-          "Zusammenführen, Teilen, Komprimieren",
-          "Bilder ↔ PDF, Organisieren",
-          "Läuft 100 % auf dem Gerät",
-          "Kein Konto nötig"
-        ],
-        "cta": "App holen"
-      },
-      {
-        "name": "Lifetime Pro",
+        "name": "Lifetime",
         "price": "$4.99",
-        "unit": "einmalig",
+        "unit": "einmal",
         "features": [
           "Alle 90+ Tools für immer",
           "OCR, Signieren, Schützen, Schwärzen",
@@ -140,7 +128,7 @@
           "Ein Universal Purchase (iPhone, iPad, Mac)",
           "14 Tage Rückerstattung ohne Bedingungen"
         ],
-        "cta": "Lifetime freischalten — $4.99"
+        "cta": "Kaufen — $4.99"
       }
     ]
   },
@@ -153,15 +141,15 @@
       ],
       [
         "Ist es kostenlos?",
-        "Kernfunktionen (Zusammenführen, Teilen, Komprimieren, Bilder↔PDF, Organisieren) sind dauerhaft kostenlos. ConvertPDF Lifetime schaltet alle Pro-Tools für einmalig $4.99 frei — kein Abo, keine Testphase."
+        "Kernfunktionen (Zusammenführen, Teilen, Komprimieren, Bilder↔PDF, Organisieren) bleiben dauerhaft kostenlos. Es gibt nur einen Kauf: ConvertPDF Lifetime für einmalig 4,99 $ — kein Abo, keine Testversion. Wenn Lifetime Ihnen nicht gefällt, fordern Sie innerhalb von 14 Tagen eine Rückerstattung an."
       ],
       [
         "Was ist ConvertPDF Lifetime?",
-        "Ein einmaliger Non-Consumable-Kauf im App Store ($4.99 USD). Schaltet alle Pro-Tools dauerhaft auf iPhone, iPad und Mac unter derselben Apple-ID frei."
+        "Der einzige bezahlte Plan. Ein einmaliger Non-Consumable-App-Store-Kauf (4,99 USD), der alle Pro-Tools für immer auf iPhone, iPad und Mac unter derselben Apple-ID freischaltet. Käufe wiederherstellen holt sie auf neuen Geräten zurück. Wenn es Ihnen nicht gefällt: Rückerstattung innerhalb von 14 Tagen."
       ],
       [
         "Gibt es eine kostenlose Testphase?",
-        "Nein. Keine Testphase und kein automatisch verlängerndes Abo."
+        "Nein. Keine Testversion und kein Abo. Es gibt nur einen Kauf: ConvertPDF Lifetime einmal für 4,99 $. Wenn es Ihnen nicht gefällt, fordern Sie innerhalb von 14 Tagen eine Rückerstattung an."
       ],
       [
         "Wie lautet die Rückerstattungsrichtlinie?",
@@ -178,8 +166,8 @@
     ]
   },
   "cta": {
-    "title": "Alle Tools freischalten, <b>einmalig.</b>",
-    "button": "Preise ansehen"
+    "title": "Ein Kauf. <b>Alle Tools.</b>",
+    "button": "Kaufen — $4.99"
   },
   "apps": {
     "title": "Holen Sie sich die ConvertPDF-Apps",
@@ -272,7 +260,7 @@
       ],
       [
         "Licence",
-        "We grant you a limited, non-exclusive, non-transferable, revocable licence to use ConvertPDF for personal or internal business purposes, subject to Apple’s App Store terms. Free tier tools may be used without purchase. ConvertPDF Lifetime is a paid licence that unlocks all advanced tools forever on devices signed in with the purchasing Apple ID (Universal Purchase: iPhone, iPad, and Mac)."
+        "Wir gewähren Ihnen eine beschränkte, nicht ausschließliche, nicht übertragbare, widerrufliche Lizenz zur Nutzung von ConvertPDF für persönliche oder interne Geschäftszwecke, vorbehaltlich der App-Store-Bedingungen von Apple. Kernfunktionen (Zusammenführen, Teilen, Komprimieren, Bilder↔PDF, Organisieren) können ohne Kauf genutzt werden. Es gibt nur einen bezahlten Plan: ConvertPDF Lifetime — einmalig 4,99 $ für alle Pro-Tools für immer auf Geräten mit der kaufenden Apple-ID (Universal Purchase: iPhone, iPad und Mac)."
       ],
       [
         "ConvertPDF Lifetime (one-time purchase)",
@@ -305,7 +293,7 @@
       ],
       [
         "Plans and payments",
-        "There is no subscription. Optional ConvertPDF Lifetime is billed once through Apple In-App Purchase. Website pricing describes the intended App Store offer. Apple’s standard refund mechanisms also apply in addition to our 14-day promise."
+        "Es gibt nur einen bezahlten Plan: ConvertPDF Lifetime, einmalig über Apple In-App Purchase für 4,99 $. Kein Abo, keine Testversion. Wenn es Ihnen nicht gefällt, fordern Sie innerhalb von 14 Tagen eine Rückerstattung an. Die Website-Preise beschreiben dieses App-Store-Angebot. Apples Standard-Rückerstattungen gelten zusätzlich zu unserem 14-Tage-Versprechen."
       ],
       [
         "Disclaimer",

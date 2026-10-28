@@ -113,34 +113,22 @@
   },
   "pricing": {
     "title": "シンプルな料金",
-    "note": "100%オフライン。基本ツールは無料のまま。一度の購入ですべての高度なツールを永久解除 — サブスクなし、無料トライアルなし。",
-    "popular": "おすすめ",
-    "refundBadge": "14日間全額返金 · 理由不問",
+    "note": "プランはひとつだけ。ConvertPDF Lifetime を一度だけ $4.99 で購入。気に入らなければ返金を申請 — 14日間・質問なし。サブスクなし。無料トライアルなし。",
+    "popular": "買い切り",
+    "refundBadge": "気に入らなければ返金を申請 — 14日間・質問なし",
     "plans": [
       {
-        "name": "無料",
-        "price": "$0",
-        "unit": "永久",
-        "features": [
-          "結合・分割・圧縮",
-          "画像↔PDF・整理",
-          "端末上で100%",
-          "アカウント不要"
-        ],
-        "cta": "アプリを入手"
-      },
-      {
-        "name": "Lifetime Pro",
+        "name": "Lifetime",
         "price": "$4.99",
         "unit": "一度きり",
         "features": [
-          "90以上のツールを永久",
+          "90以上の全ツールを永久利用",
           "OCR・署名・保護・墨消し",
-          "Word・Excel・EPUB・一括",
-          "Universal Purchase 1つ",
+          "Word・Excel・EPUB・一括処理",
+          "ユニバーサル購入1回（iPhone・iPad・Mac）",
           "14日間の無条件返金"
         ],
-        "cta": "Lifetimeを解除 — $4.99"
+        "cta": "購入 — $4.99"
       }
     ]
   },
@@ -153,15 +141,15 @@
       ],
       [
         "無料ですか？",
-        "基本ツールは永久無料。Lifetimeは一度$4.99 — サブスク／トライアルなし。"
+        "基本ツール（結合・分割・圧縮・画像↔PDF・整理）は永久無料です。有料は ConvertPDF Lifetime（$4.99 の一回購入）のみ — サブスクなし・トライアルなし。Lifetime が気に入らなければ14日以内に返金を申請できます。"
       ],
       [
         "ConvertPDF Lifetimeとは？",
-        "一度きりの非消耗型IAP（$4.99）。同じApple IDで永久にProを解除。"
+        "唯一の有料プラン。App Store の非消耗型購入（$4.99 USD）で、同じ Apple ID の iPhone・iPad・Mac ですべての Pro ツールを永久解除。復元で新しい端末にも引き継げます。気に入らなければ14日以内に返金を。"
       ],
       [
         "無料トライアルは？",
-        "ありません。"
+        "いいえ。無料トライアルも自動更新サブスクもありません。購入は ConvertPDF Lifetime（$4.99 一回）のみ。気に入らなければ14日以内に返金を申請できます。"
       ],
       [
         "返金ポリシーは？",
@@ -178,8 +166,8 @@
     ]
   },
   "cta": {
-    "title": "すべてを解除、<b>一度だけ。</b>",
-    "button": "料金を見る"
+    "title": "一度の購入で。<b>すべてのツール。</b>",
+    "button": "購入 — $4.99"
   },
   "apps": {
     "title": "ConvertPDFアプリを入手",
@@ -272,7 +260,7 @@
       ],
       [
         "Licence",
-        "We grant you a limited, non-exclusive, non-transferable, revocable licence to use ConvertPDF for personal or internal business purposes, subject to Apple’s App Store terms. Free tier tools may be used without purchase. ConvertPDF Lifetime is a paid licence that unlocks all advanced tools forever on devices signed in with the purchasing Apple ID (Universal Purchase: iPhone, iPad, and Mac)."
+        "当社は、Apple の App Store 利用条件に従い、個人または社内業務目的で ConvertPDF を使用するための限定的・非独占・譲渡不可・取消可能なライセンスを付与します。基本ツール（結合・分割・圧縮・画像↔PDF・整理）は購入なしで利用できます。有料プランは ConvertPDF Lifetime のみ — 購入した Apple ID でサインインした端末（ユニバーサル購入：iPhone・iPad・Mac）ですべての高度なツールを永久解除する一回 $4.99 の購入です。"
       ],
       [
         "ConvertPDF Lifetime (one-time purchase)",
@@ -305,7 +293,7 @@
       ],
       [
         "Plans and payments",
-        "There is no subscription. Optional ConvertPDF Lifetime is billed once through Apple In-App Purchase. Website pricing describes the intended App Store offer. Apple’s standard refund mechanisms also apply in addition to our 14-day promise."
+        "有料プランは ConvertPDF Lifetime のみで、Apple アプリ内課金により一回 $4.99 で請求されます。サブスクも無料トライアルもありません。気に入らなければ14日以内に返金を申請できます。本サイトの料金はこの App Store オファーを説明します。当社の14日間の約束に加え、Apple の標準返金も適用されます。"
       ],
       [
         "Disclaimer",

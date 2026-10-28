@@ -113,34 +113,22 @@
   },
   "pricing": {
     "title": "간단한 요금",
-    "note": "100% 오프라인. 핵심 도구는 계속 무료. 한 번 구매로 모든 고급 도구 영구 해제 — 구독 없음, 무료 체험 없음.",
-    "popular": "최고의 가치",
-    "refundBadge": "14일 전액 환불 · 무조건",
+    "note": "요금제는 하나뿐입니다. ConvertPDF Lifetime을 $4.99에 한 번 구매하세요. 마음에 들지 않으면 환불을 요청하세요 — 14일, 묻지 않음. 구독 없음. 무료 체험 없음.",
+    "popular": "일회성 구매",
+    "refundBadge": "마음에 들지 않나요? 환불 요청 — 14일, 묻지 않음",
     "plans": [
       {
-        "name": "무료",
-        "price": "$0",
-        "unit": "영구",
-        "features": [
-          "병합, 분할, 압축",
-          "이미지↔PDF, 정리",
-          "기기에서 100%",
-          "계정 불필요"
-        ],
-        "cta": "앱 받기"
-      },
-      {
-        "name": "Lifetime Pro",
+        "name": "Lifetime",
         "price": "$4.99",
         "unit": "한 번",
         "features": [
-          "90+ 도구 영구",
-          "OCR, 서명, 보호, 편집",
+          "90개 이상 도구 영구 이용",
+          "OCR, 서명, 보호, 교정",
           "Word, Excel, EPUB 및 일괄",
-          "Universal Purchase 1회",
+          "유니버설 구매 1회 (iPhone, iPad, Mac)",
           "14일 무조건 환불"
         ],
-        "cta": "Lifetime 잠금 해제 — $4.99"
+        "cta": "구매 — $4.99"
       }
     ]
   },
@@ -153,15 +141,15 @@
       ],
       [
         "무료인가요?",
-        "핵심은 영구 무료. Lifetime은 한 번 $4.99 — 구독/체험 없음."
+        "핵심 도구(병합, 분할, 압축, 이미지↔PDF, 정리)는 영원히 무료입니다. 유료는 ConvertPDF Lifetime($4.99 일회 구매)뿐 — 구독·무료 체험 없음. Lifetime이 마음에 들지 않으면 14일 안에 환불을 요청하세요."
       ],
       [
         "ConvertPDF Lifetime이란?",
-        "일회성 비소모성 IAP($4.99)."
+        "유일한 유료 요금제. App Store 비소모성 구매($4.99 USD)로 같은 Apple ID의 iPhone, iPad, Mac에서 모든 Pro 도구를 영구 해제합니다. 구매 복원으로 새 기기에서도 이어집니다. 마음에 들지 않으면 14일 안에 환불."
       ],
       [
         "무료 체험이 있나요?",
-        "없습니다."
+        "없습니다. 무료 체험도 자동 갱신 구독도 없습니다. 구매는 ConvertPDF Lifetime($4.99 한 번)뿐입니다. 마음에 들지 않으면 14일 안에 환불을 요청하세요."
       ],
       [
         "환불 정책은?",
@@ -178,8 +166,8 @@
     ]
   },
   "cta": {
-    "title": "모두 잠금 해제, <b>한 번.</b>",
-    "button": "요금 보기"
+    "title": "한 번 구매. <b>모든 도구.</b>",
+    "button": "구매 — $4.99"
   },
   "apps": {
     "title": "ConvertPDF 앱 받기",
@@ -272,7 +260,7 @@
       ],
       [
         "Licence",
-        "We grant you a limited, non-exclusive, non-transferable, revocable licence to use ConvertPDF for personal or internal business purposes, subject to Apple’s App Store terms. Free tier tools may be used without purchase. ConvertPDF Lifetime is a paid licence that unlocks all advanced tools forever on devices signed in with the purchasing Apple ID (Universal Purchase: iPhone, iPad, and Mac)."
+        "당사는 Apple App Store 약관에 따라 개인 또는 내부 업무 목적으로 ConvertPDF를 사용할 수 있는 제한적·비독점·양도 불가·취소 가능한 라이선스를 부여합니다. 핵심 도구(병합, 분할, 압축, 이미지↔PDF, 정리)는 구매 없이 사용할 수 있습니다. 유료 요금제는 ConvertPDF Lifetime 하나뿐입니다 — 구매한 Apple ID로 로그인한 기기(유니버설 구매: iPhone, iPad, Mac)에서 모든 고급 도구를 영구 해제하는 일회 $4.99 구매입니다."
       ],
       [
         "ConvertPDF Lifetime (one-time purchase)",
@@ -305,7 +293,7 @@
       ],
       [
         "Plans and payments",
-        "There is no subscription. Optional ConvertPDF Lifetime is billed once through Apple In-App Purchase. Website pricing describes the intended App Store offer. Apple’s standard refund mechanisms also apply in addition to our 14-day promise."
+        "유료 요금제는 ConvertPDF Lifetime 하나뿐이며 Apple 인앱 구매로 $4.99에 한 번 청구됩니다. 구독과 무료 체험은 없습니다. 마음에 들지 않으면 14일 안에 환불을 요청하세요. 웹사이트 요금은 이 App Store 상품을 설명합니다. 당사 14일 약속에 더해 Apple 표준 환불도 적용됩니다."
       ],
       [
         "Disclaimer",

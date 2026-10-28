@@ -113,34 +113,22 @@
   },
   "pricing": {
     "title": "Giá đơn giản",
-    "note": "100% ngoại tuyến. Công cụ cốt lõi vẫn miễn phí. Mở khóa mọi công cụ nâng cao mãi mãi với một lần mua — không thuê bao, không dùng thử miễn phí.",
-    "popular": "Đáng giá nhất",
-    "refundBadge": "Hoàn tiền đầy đủ 14 ngày · không hỏi lý do",
+    "note": "Chỉ một gói. Mua ConvertPDF Lifetime với $4.99 một lần. Nếu không thích, yêu cầu hoàn tiền — 14 ngày, không hỏi lý do. Không đăng ký. Không dùng thử miễn phí.",
+    "popular": "Mua một lần",
+    "refundBadge": "Không thích? Yêu cầu hoàn tiền — 14 ngày, không hỏi lý do",
     "plans": [
       {
-        "name": "Miễn phí",
-        "price": "$0",
-        "unit": "mãi mãi",
-        "features": [
-          "Gộp, Tách, Nén",
-          "Ảnh ↔ PDF, Sắp xếp",
-          "100% trên thiết bị",
-          "Không cần tài khoản"
-        ],
-        "cta": "Tải ứng dụng"
-      },
-      {
-        "name": "Lifetime Pro",
+        "name": "Lifetime",
         "price": "$4.99",
         "unit": "một lần",
         "features": [
           "Tất cả 90+ công cụ mãi mãi",
           "OCR, Ký, Bảo vệ, Che",
           "Word, Excel, EPUB & hàng loạt",
-          "Một Universal Purchase",
+          "Một Mua Universal (iPhone, iPad, Mac)",
           "Hoàn tiền vô điều kiện 14 ngày"
         ],
-        "cta": "Mở Lifetime — $4.99"
+        "cta": "Mua — $4.99"
       }
     ]
   },
@@ -153,15 +141,15 @@
       ],
       [
         "Có miễn phí không?",
-        "Cốt lõi miễn phí mãi. Lifetime $4.99 một lần — không thuê bao/dùng thử."
+        "Công cụ cốt lõi (Gộp, Tách, Nén, Ảnh↔PDF, Sắp xếp) miễn phí mãi mãi. Chỉ có một lần mua: ConvertPDF Lifetime $4.99 một lần — không đăng ký, không dùng thử. Nếu không thích Lifetime, yêu cầu hoàn tiền trong 14 ngày."
       ],
       [
         "ConvertPDF Lifetime là gì?",
-        "Mua không tiêu hao một lần ($4.99)."
+        "Gói trả phí duy nhất. Mua không tiêu hao trên App Store ($4.99 USD) mở khóa mọi công cụ Pro mãi mãi trên iPhone, iPad và Mac cùng Apple ID. Khôi phục mua hàng lấy lại trên thiết bị mới. Nếu không thích, hoàn tiền trong 14 ngày."
       ],
       [
         "Có dùng thử miễn phí?",
-        "Không."
+        "Không. Không dùng thử miễn phí và không đăng ký tự gia hạn. Chỉ có một lần mua: ConvertPDF Lifetime $4.99 một lần. Nếu không thích, yêu cầu hoàn tiền trong 14 ngày."
       ],
       [
         "Chính sách hoàn tiền?",
@@ -178,8 +166,8 @@
     ]
   },
   "cta": {
-    "title": "Mở khóa tất cả, <b>một lần.</b>",
-    "button": "Xem giá"
+    "title": "Một lần mua. <b>Mọi công cụ.</b>",
+    "button": "Mua — $4.99"
   },
   "apps": {
     "title": "Tải ứng dụng ConvertPDF",
@@ -272,7 +260,7 @@
       ],
       [
         "Licence",
-        "We grant you a limited, non-exclusive, non-transferable, revocable licence to use ConvertPDF for personal or internal business purposes, subject to Apple’s App Store terms. Free tier tools may be used without purchase. ConvertPDF Lifetime is a paid licence that unlocks all advanced tools forever on devices signed in with the purchasing Apple ID (Universal Purchase: iPhone, iPad, and Mac)."
+        "Chúng tôi cấp cho bạn giấy phép hạn chế, không độc quyền, không chuyển nhượng, có thể thu hồi để sử dụng ConvertPDF cho mục đích cá nhân hoặc nội bộ doanh nghiệp, theo điều khoản App Store của Apple. Công cụ cốt lõi (Gộp, Tách, Nén, Ảnh↔PDF, Sắp xếp) có thể dùng mà không cần mua. Chỉ có một gói trả phí: ConvertPDF Lifetime — mua một lần $4.99 để mở khóa mọi công cụ nâng cao mãi mãi trên thiết bị đăng nhập bằng Apple ID mua hàng (Mua Universal: iPhone, iPad và Mac)."
       ],
       [
         "ConvertPDF Lifetime (one-time purchase)",
@@ -305,7 +293,7 @@
       ],
       [
         "Plans and payments",
-        "There is no subscription. Optional ConvertPDF Lifetime is billed once through Apple In-App Purchase. Website pricing describes the intended App Store offer. Apple’s standard refund mechanisms also apply in addition to our 14-day promise."
+        "Chỉ có một gói trả phí: ConvertPDF Lifetime, thanh toán một lần qua Mua trong ứng dụng Apple với $4.99. Không đăng ký, không dùng thử. Nếu không thích, yêu cầu hoàn tiền trong 14 ngày. Giá trên website mô tả ưu đãi App Store này. Cơ chế hoàn tiền tiêu chuẩn của Apple cũng áp dụng ngoài cam kết 14 ngày của chúng tôi."
       ],
       [
         "Disclaimer",

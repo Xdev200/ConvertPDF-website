@@ -113,34 +113,22 @@
   },
   "pricing": {
     "title": "简单定价",
-    "note": "100% 离线。核心工具永久免费。一次购买永久解锁全部高级工具 — 无订阅、无免费试用。",
-    "popular": "超值",
-    "refundBadge": "14天全额退款 · 无条件",
+    "note": "只有一种方案。一次购买 ConvertPDF Lifetime，仅需 $4.99。不满意就申请退款 — 14 天、不问理由。无订阅。无免费试用。",
+    "popular": "一次性购买",
+    "refundBadge": "不满意？申请退款 — 14 天、不问理由",
     "plans": [
       {
-        "name": "免费版",
-        "price": "$0",
-        "unit": "永久",
-        "features": [
-          "合并、拆分、压缩",
-          "图片↔PDF、整理",
-          "100% 在设备上",
-          "无需账户"
-        ],
-        "cta": "获取应用"
-      },
-      {
-        "name": "Lifetime Pro",
+        "name": "Lifetime",
         "price": "$4.99",
-        "unit": "一次性",
+        "unit": "一次",
         "features": [
-          "永久解锁全部90+工具",
+          "永久解锁全部 90+ 工具",
           "OCR、签名、保护、涂黑",
-          "Word、Excel、EPUB与批量",
-          "一次通用购买",
-          "14天无条件退款"
+          "Word、Excel、EPUB 与批量",
+          "一次通用购买（iPhone、iPad、Mac）",
+          "14 天无条件退款"
         ],
-        "cta": "解锁 Lifetime — $4.99"
+        "cta": "购买 — $4.99"
       }
     ]
   },
@@ -153,15 +141,15 @@
       ],
       [
         "免费吗？",
-        "核心工具永久免费。Lifetime 一次性 $4.99 — 无订阅、无试用。"
+        "核心工具（合并、拆分、压缩、图片↔PDF、整理）永久免费。付费只有一种：ConvertPDF Lifetime，一次 $4.99 — 无订阅、无试用。若不喜欢 Lifetime，可在 14 天内申请退款。"
       ],
       [
         "什么是 ConvertPDF Lifetime？",
-        "App Store 一次性非消耗型内购（$4.99），同一 Apple ID 永久解锁 Pro。"
+        "唯一付费方案。App Store 非消耗型内购（$4.99 USD），在同一 Apple ID 下永久解锁 iPhone、iPad、Mac 上全部 Pro 工具。恢复购买可在新设备找回。不满意可在 14 天内退款。"
       ],
       [
         "有免费试用吗？",
-        "没有。"
+        "没有。无免费试用，也无自动续订订阅。只有一种购买：ConvertPDF Lifetime，一次 $4.99。不满意可在 14 天内申请退款。"
       ],
       [
         "退款政策？",
@@ -178,8 +166,8 @@
     ]
   },
   "cta": {
-    "title": "一次解锁 <b>全部工具。</b>",
-    "button": "查看价格"
+    "title": "一次购买。<b>全部工具。</b>",
+    "button": "购买 — $4.99"
   },
   "apps": {
     "title": "获取 ConvertPDF 应用",
@@ -272,7 +260,7 @@
       ],
       [
         "Licence",
-        "We grant you a limited, non-exclusive, non-transferable, revocable licence to use ConvertPDF for personal or internal business purposes, subject to Apple’s App Store terms. Free tier tools may be used without purchase. ConvertPDF Lifetime is a paid licence that unlocks all advanced tools forever on devices signed in with the purchasing Apple ID (Universal Purchase: iPhone, iPad, and Mac)."
+        "我们授予您有限、非独占、不可转让、可撤销的许可，以便您在遵守 Apple App Store 条款的前提下将 ConvertPDF 用于个人或内部业务用途。核心工具（合并、拆分、压缩、图片↔PDF、整理）可不购买使用。付费方案仅有一种：ConvertPDF Lifetime — 一次 $4.99，在购买所用 Apple ID 登录的设备上永久解锁全部高级工具（通用购买：iPhone、iPad、Mac）。"
       ],
       [
         "ConvertPDF Lifetime (one-time purchase)",
@@ -305,7 +293,7 @@
       ],
       [
         "Plans and payments",
-        "There is no subscription. Optional ConvertPDF Lifetime is billed once through Apple In-App Purchase. Website pricing describes the intended App Store offer. Apple’s standard refund mechanisms also apply in addition to our 14-day promise."
+        "付费方案仅有一种：ConvertPDF Lifetime，通过 Apple 内购一次收取 $4.99。无订阅、无试用。不满意可在 14 天内申请退款。网站定价描述的是该 App Store 商品。除我们的 14 天承诺外，Apple 标准退款机制同样适用。"
       ],
       [
         "Disclaimer",

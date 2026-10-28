@@ -113,34 +113,22 @@
   },
   "pricing": {
     "title": "أسعار بسيطة",
-    "note": "100٪ دون اتصال. الأدوات الأساسية تبقى مجانية. افتح كل الأدوات المتقدمة للأبد بشراء واحد — بلا اشتراك وبلا تجربة مجانية.",
-    "popular": "أفضل قيمة",
-    "refundBadge": "استرداد كامل خلال 14 يومًا · بلا أسئلة",
+    "note": "خطة واحدة فقط. اشترِ ConvertPDF Lifetime مقابل 4.99$ مرة واحدة. إن لم يعجبك، اطلب استردادًا — 14 يومًا بلا أسئلة. بلا اشتراك. بلا تجربة مجانية.",
+    "popular": "شراء لمرة واحدة",
+    "refundBadge": "لم يعجبك؟ اطلب استردادًا — 14 يومًا بلا أسئلة",
     "plans": [
       {
-        "name": "مجاني",
-        "price": "$0",
-        "unit": "للأبد",
-        "features": [
-          "دمج وتقسيم وضغط",
-          "صور ↔ PDF وتنظيم",
-          "100٪ على جهازك",
-          "بدون حساب"
-        ],
-        "cta": "احصل على التطبيق"
-      },
-      {
-        "name": "Lifetime Pro",
+        "name": "Lifetime",
         "price": "$4.99",
         "unit": "مرة واحدة",
         "features": [
-          "كل أدوات الـ90+ للأبد",
-          "OCR وتوقيع وحماية وتنقيح",
-          "Word وExcel وEPUB والدفعات",
-          "شراء Universal واحد",
-          "استرداد غير مشروط 14 يومًا"
+          "كل الأدوات الـ90+ إلى الأبد",
+          "OCR والتوقيع والحماية والتنقيح",
+          "Word وExcel وEPUB والدُفعات",
+          "شراء عالمي واحد (iPhone وiPad وMac)",
+          "استرداد غير مشروط خلال 14 يومًا"
         ],
-        "cta": "فتح Lifetime — $4.99"
+        "cta": "اشترِ — $4.99"
       }
     ]
   },
@@ -153,7 +141,7 @@
       ],
       [
         "هل مجاني؟",
-        "الأدوات الأساسية مجانية دائمًا. Lifetime مقابل 4.99$ مرة واحدة — بلا اشتراك وبلا تجربة."
+        "الأدوات الأساسية (دمج وتقسيم وضغط وصور↔PDF وتنظيم) تبقى مجانية إلى الأبد. هناك شراء واحد فقط: ConvertPDF Lifetime مقابل 4.99$ مرة واحدة — بلا اشتراك ولا تجربة. إن لم يعجبك Lifetime فاطلب استردادًا خلال 14 يومًا."
       ],
       [
         "ما ConvertPDF Lifetime؟",
@@ -161,7 +149,7 @@
       ],
       [
         "هل هناك تجربة مجانية؟",
-        "لا."
+        "لا. لا تجربة مجانية ولا اشتراك متجدد تلقائيًا. شراء واحد فقط: ConvertPDF Lifetime مقابل 4.99$ مرة واحدة. إن لم يعجبك فاطلب استردادًا خلال 14 يومًا."
       ],
       [
         "سياسة الاسترداد؟",
@@ -178,8 +166,8 @@
     ]
   },
   "cta": {
-    "title": "افتح كل الأدوات، <b>مرة واحدة.</b>",
-    "button": "عرض الأسعار"
+    "title": "شراء واحد. <b>كل الأدوات.</b>",
+    "button": "اشترِ — $4.99"
   },
   "apps": {
     "title": "احصل على تطبيقات ConvertPDF",
@@ -272,7 +260,7 @@
       ],
       [
         "Licence",
-        "We grant you a limited, non-exclusive, non-transferable, revocable licence to use ConvertPDF for personal or internal business purposes, subject to Apple’s App Store terms. Free tier tools may be used without purchase. ConvertPDF Lifetime is a paid licence that unlocks all advanced tools forever on devices signed in with the purchasing Apple ID (Universal Purchase: iPhone, iPad, and Mac)."
+        "نمنحك ترخيصًا محدودًا وغير حصري وغير قابل للتحويل وقابل للإلغاء لاستخدام ConvertPDF لأغراض شخصية أو أعمال داخلية، وفق شروط App Store من Apple. يمكن استخدام الأدوات الأساسية (دمج وتقسيم وضغط وصور↔PDF وتنظيم) دون شراء. هناك خطة مدفوعة واحدة فقط: ConvertPDF Lifetime — شراء لمرة واحدة بـ 4.99$ يفتح كل الأدوات المتقدمة إلى الأبد على الأجهزة المسجّلة بـ Apple ID الشراء (شراء عالمي: iPhone وiPad وMac)."
       ],
       [
         "ConvertPDF Lifetime (one-time purchase)",
@@ -305,7 +293,7 @@
       ],
       [
         "Plans and payments",
-        "There is no subscription. Optional ConvertPDF Lifetime is billed once through Apple In-App Purchase. Website pricing describes the intended App Store offer. Apple’s standard refund mechanisms also apply in addition to our 14-day promise."
+        "هناك خطة مدفوعة واحدة فقط: ConvertPDF Lifetime، تُحصَّل مرة واحدة عبر الشراء داخل التطبيق من Apple مقابل 4.99$. بلا اشتراك وبلا تجربة. إن لم يعجبك فاطلب استردادًا خلال 14 يومًا. أسعار الموقع تصف عرض App Store هذا. آليات الاسترداد القياسية من Apple تنطبق أيضًا إلى جانب وعدنا بـ 14 يومًا."
       ],
       [
         "Disclaimer",

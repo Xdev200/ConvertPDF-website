@@ -33,7 +33,13 @@ export function Converter({ m }: P) {
 }
 export function Pricing({ m }: P) {
   const p = m.pricing;
-  const cols = p.plans.length === 2 ? "md:grid-cols-2 md:max-w-3xl md:mx-auto" : "md:grid-cols-3";
+  // Single Lifetime plan — center one highlighted card (never show a Free plan card).
+  const single = p.plans.length === 1;
+  const cols = single
+    ? "md:grid-cols-1 md:max-w-md md:mx-auto"
+    : p.plans.length === 2
+      ? "md:grid-cols-2 md:max-w-3xl md:mx-auto"
+      : "md:grid-cols-3";
   return (<section id="pricing" className="bg-white"><div className="wrap py-16">
     <h2 className="text-center text-2xl font-semibold md:text-3xl">{p.title}</h2>
     <p className="mt-2 text-center text-sm text-muted">{p.note}</p>
@@ -42,7 +48,9 @@ export function Pricing({ m }: P) {
         {p.refundBadge}
       </p>
     ) : null}
-    <div className={`mt-10 grid gap-5 ${cols}`}>{p.plans.map((pl, i) => { const hot = i === 1; return (
+    <div className={`mt-10 grid gap-5 ${cols}`}>{p.plans.map((pl, i) => {
+      const hot = single || i === p.plans.length - 1;
+      return (
       <div key={i} className={`rounded-md border bg-white p-6 ${hot ? "border-brand ring-1 ring-brand" : "border-line"}`}>
         {hot && <span className="mb-2 inline-block rounded bg-brand px-2 py-0.5 text-xs font-semibold text-white">{p.popular}</span>}
         <h3 className="text-lg font-semibold">{pl.name}</h3>
