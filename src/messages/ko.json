@@ -8,107 +8,380 @@
   },
   "skip": "본문으로 건너뛰기",
   "nav": {
-    "tools": "도구",
-    "merge": "PDF 병합",
-    "sign": "PDF 서명",
     "pricing": "요금",
-    "files": "내 파일",
-    "login": "지원",
-    "signup": "앱 받기",
-    "language": "언어"
+    "support": "지원",
+    "getApp": "앱 받기"
   },
   "hero": {
     "title": "올인원 <b>온라인 PDF 도구.</b>",
     "text": "우리는 여러분의 삶을 편하게 해 주는 PDF 도구를 만듭니다. 파일을 PDF로, PDF에서 다른 형식으로 변환하고 병합, 입력, 서명, 압축까지 몇 번의 클릭으로 — Mac이나 iPhone에서 바로 사용하세요.",
-    "explore": "도구 둘러보기",
-    "demo": "데모 체험하기"
+    "explore": "도구 둘러보기"
   },
   "tools": {
-    "title": "가장 인기 있는 PDF 도구",
-    "all": "91개 도구 모두 보기",
+    "title": "모든 PDF 도구",
+    "note": "90개 도구가 모두 기기에서 오프라인으로 실행됩니다. 앱을 받으세요.",
+    "cta": "앱 받기",
     "items": [
       [
-        "Word를 PDF로",
-        "Word DOC 및 DOCX 파일을 PDF로 변환합니다."
+        "정리(다중 도구)",
+        "페이지 순서 변경, 회전, 삭제를 시각적으로"
       ],
       [
-        "PDF를 Word로",
-        "PDF를 편집 가능한 DOC 또는 DOCX 문서로 변환합니다."
+        "Merge PDFs",
+        "Merge several PDF files into one single document."
       ],
       [
-        "Excel을 PDF로",
-        "Excel 스프레드시트를 PDF로 변환해 쉽게 공유하세요."
+        "PDF 분할",
+        "페이지 또는 페이지 범위를 추출합니다"
       ],
       [
-        "PDF를 Excel로",
-        "PDF의 표를 Excel 스프레드시트로 추출합니다."
+        "Extract PDF",
+        "Split your PDF and extract only the pages you want."
       ],
       [
-        "PDF를 PowerPoint로",
-        "PDF를 편집 가능한 PPT 및 PPTX 프레젠테이션으로 변환합니다."
+        "페이지 삭제",
+        "필요 없는 페이지를 삭제합니다"
       ],
       [
-        "PDF를 EPUB로",
-        "PDF를 모든 리더에서 읽을 수 있는 리플로우 또는 고정 레이아웃 전자책으로 변환합니다."
+        "페이지 순서 뒤집기",
+        "페이지 순서를 거꾸로 합니다"
       ],
       [
-        "PowerPoint를 PDF로",
-        "PowerPoint 슬라이드쇼를 PDF로 변환해 쉽게 공유하세요."
+        "페이지 회전",
+        "90°, 180° 또는 원하는 각도"
+      ],
+      [
+        "빈 페이지 추가",
+        "원하는 위치에 빈 페이지를 삽입합니다"
+      ],
+      [
+        "교차 병합",
+        "2개 이상의 PDF 페이지를 번갈아 배치"
+      ],
+      [
+        "페이지 나누기",
+        "각 페이지를 2개 또는 4개로 자르기"
+      ],
+      [
+        "N-Up / 격자 결합",
+        "한 장에 여러 페이지"
+      ],
+      [
+        "PDF 소책자",
+        "접지 인쇄를 위한 면 배치"
+      ],
+      [
+        "빈 페이지 제거",
+        "빈 페이지를 감지하여 삭제합니다"
+      ],
+      [
+        "PDF 자르기",
+        "여백을 자르거나 공백을 자동으로 제거"
+      ],
+      [
+        "페이지 크기 통일",
+        "모든 페이지를 같은 크기로 만듭니다"
+      ],
+      [
+        "북마크",
+        "목차 항목 추가, 나열 또는 삭제"
+      ],
+      [
+        "목차",
+        "클릭할 수 있는 목차 페이지를 생성합니다"
+      ],
+      [
+        "메타데이터",
+        "문서 정보 보기, 편집 또는 삭제"
+      ],
+      [
+        "페이지 치수",
+        "모든 페이지의 크기"
+      ],
+      [
+        "PDF 비교",
+        "텍스트와 시각적 차이를 찾습니다"
+      ],
+      [
+        "PDF를 ZIP으로",
+        "PDF(또는 각 페이지)를 ZIP으로 묶기"
+      ],
+      [
+        "PDF 리더",
+        "PDF 보기, 검색, 확대/축소"
       ],
       [
         "이미지를 PDF로",
-        "JPG, PNG, BMP 등 다양한 이미지 형식을 PDF로 변환합니다."
-      ],
-      [
-        "PDF를 이미지로",
-        "PDF의 각 페이지를 이미지로 변환하고 추출합니다."
-      ],
-      [
-        "PNG를 PDF로",
-        "PNG 이미지를 읽기 쉬운 PDF 파일로 만듭니다."
-      ],
-      [
-        "PDF를 PNG로",
-        "PDF의 각 페이지를 추출해 PNG로 변환합니다."
+        "Convert JPG, PNG, BMP and many more image formats to PDF."
       ],
       [
         "JPG를 PDF로",
-        "JPG 및 JPEG 파일을 몇 초 만에 PDF로 변환합니다."
+        "JPG 이미지를 PDF로 변환합니다"
+      ],
+      [
+        "PNG를 PDF로",
+        "PNG 이미지를 PDF로 변환합니다"
+      ],
+      [
+        "WebP를 PDF로",
+        "WebP 이미지를 PDF로 변환합니다"
       ],
       [
         "BMP를 PDF로",
-        "BMP 이미지를 PDF 문서로 간편하게 변환합니다."
+        "BMP 이미지를 PDF로 변환합니다"
+      ],
+      [
+        "HEIC를 PDF로",
+        "HEIC 이미지를 PDF로 변환합니다"
+      ],
+      [
+        "TIFF를 PDF로",
+        "TIFF 이미지를 PDF로 변환합니다"
+      ],
+      [
+        "텍스트를 PDF로",
+        "자동으로 페이지가 나뉘는 일반 텍스트"
+      ],
+      [
+        "JSON을 PDF로",
+        "보기 좋게 정리된 JSON"
+      ],
+      [
+        "Markdown을 PDF로",
+        "제목, 목록, 코드, 굵게"
+      ],
+      [
+        "RTF를 PDF로",
+        "서식 있는 텍스트는 글꼴과 스타일을 유지합니다"
+      ],
+      [
+        "SVG를 PDF로",
+        "벡터 이미지는 벡터로 유지됩니다"
+      ],
+      [
+        "Word를 PDF로",
+        "Convert Word DOC and DOCX formats to PDF files."
+      ],
+      [
+        "Excel을 PDF로",
+        "Convert Excel spreadsheets to PDF and make them easy to share."
+      ],
+      [
+        "PowerPoint를 PDF로",
+        "Convert PowerPoint slideshows to PDF for easy sharing."
+      ],
+      [
+        "XPS를 PDF로",
+        "XPS / OXPS"
+      ],
+      [
+        "EPUB을 PDF로",
+        "전자책"
+      ],
+      [
+        "MOBI를 PDF로",
+        "Kindle 도서(보호 없음)"
+      ],
+      [
+        "FB2를 PDF로",
+        "FictionBook"
+      ],
+      [
+        "PSD를 PDF로",
+        "Photoshop 파일"
+      ],
+      [
+        "CBZ를 PDF로",
+        "만화 아카이브"
+      ],
+      [
+        "이메일을 PDF로",
+        "EML 메시지"
+      ],
+      [
+        "PDF를 이미지로",
+        "Convert and extract each page of your PDF into images."
+      ],
+      [
+        "PDF를 BMP로",
+        "페이지를 BMP로 내보냅니다"
+      ],
+      [
+        "PDF를 TIFF로",
+        "페이지를 TIFF로 내보냅니다"
+      ],
+      [
+        "PDF를 WebP로",
+        "페이지를 WebP로 내보냅니다"
+      ],
+      [
+        "PDF를 텍스트로",
+        "모든 텍스트를 .txt로 추출합니다"
+      ],
+      [
+        "PDF를 Markdown으로",
+        "페이지별 텍스트를 .md로"
+      ],
+      [
+        "PDF를 JSON으로",
+        "텍스트와 메타데이터를 JSON으로"
+      ],
+      [
+        "PDF to Word",
+        "Convert your PDF to an editable DOC or DOCX document."
+      ],
+      [
+        "PDF to Excel",
+        "Pull tables out of a PDF into an Excel spreadsheet."
+      ],
+      [
+        "표 추출",
+        "텍스트 기반 표를 CSV로"
+      ],
+      [
+        "PDF OCR",
+        "스캔한 PDF를 검색 가능하게 만듭니다"
+      ],
+      [
+        "이미지 추출",
+        "포함된 이미지를 저장합니다"
+      ],
+      [
+        "첨부 파일 추출",
+        "포함된 파일을 저장합니다"
+      ],
+      [
+        "PDF를 PowerPoint로",
+        "Transform PDF into editable PPT and PPTX presentations."
+      ],
+      [
+        "PDF를 EPUB로",
+        "Turn a PDF into a reflowable or fixed-layout e-book for any reader."
+      ],
+      [
+        "텍스트 추가",
+        "페이지에 텍스트를 배치합니다"
+      ],
+      [
+        "강조 및 밑줄",
+        "구문과 일치하는 모든 곳을 표시합니다"
       ],
       [
         "PDF 서명",
-        "나만의 디지털 서명을 만들어 온라인에서 PDF에 서명하세요."
+        "Create your own digital signature and sign PDF files on your device."
       ],
       [
-        "PDF 양식 작성",
-        "PDF에 텍스트를 추가하고 양식의 빈 입력란을 채우세요."
+        "워터마크",
+        "페이지 뒤/위에 텍스트 또는 이미지 배치"
       ],
       [
-        "PDF 병합",
-        "여러 PDF 파일을 하나의 문서로 병합합니다."
+        "페이지 번호",
+        "모든 페이지에 번호를 매깁니다"
       ],
       [
-        "PDF 페이지 추출",
-        "PDF를 분할해 원하는 페이지만 추출합니다."
+        "머리글 및 바닥글",
+        "위쪽과 아래쪽에 텍스트 배치"
+      ],
+      [
+        "도장",
+        "승인됨, 초안, 기밀…"
+      ],
+      [
+        "배경색",
+        "페이지 배경에 색을 입힙니다"
+      ],
+      [
+        "텍스트 색상",
+        "어두운 텍스트와 선의 색상을 바꿉니다"
+      ],
+      [
+        "색상 반전",
+        "다크 모드에 적합한 페이지"
+      ],
+      [
+        "주석 제거",
+        "주석과 표시를 제거합니다"
+      ],
+      [
+        "Fill PDF Form",
+        "Add text to a PDF and fill in the empty fields of your form."
+      ],
+      [
+        "PDF 병합(평면화)",
+        "주석과 양식을 페이지에 합칩니다"
+      ],
+      [
+        "PDF 압축",
+        "PDF 크기를 줄입니다"
+      ],
+      [
+        "PDF 복구",
+        "손상된 파일을 다시 만듭니다"
+      ],
+      [
+        "PDF 래스터화",
+        "페이지를 평면 이미지로 변환합니다"
+      ],
+      [
+        "포스터화",
+        "포스터 같은 단순한 색조로 줄입니다"
+      ],
+      [
+        "PDF를 회색조로",
+        "모든 색상을 제거합니다"
+      ],
+      [
+        "웹용으로 최적화(다시 저장)",
+        "파일 구조를 다시 씁니다"
+      ],
+      [
+        "PDF/A 스타일 보관본",
+        "메타데이터와 함께 다시 저장(검증되지 않음)"
+      ],
+      [
+        "텍스트를 이미지로(글꼴 불필요)",
+        "글꼴 의존성을 제거합니다"
+      ],
+      [
+        "기울기 보정",
+        "스캔한 페이지의 기울기를 바로잡습니다"
+      ],
+      [
+        "레이어(OCG) 뷰어",
+        "PDF 레이어를 나열합니다"
+      ],
+      [
+        "PDF 암호화",
+        "열 때 비밀번호를 요구합니다"
+      ],
+      [
+        "PDF 암호 해제",
+        "알고 있는 비밀번호를 제거합니다"
+      ],
+      [
+        "제한 해제",
+        "인쇄/복사/편집 제한을 해제합니다"
+      ],
+      [
+        "권한 변경",
+        "인쇄, 복사, 편집을 허용/거부합니다"
+      ],
+      [
+        "PDF 정리(살균)",
+        "메타데이터, 스크립트, 첨부 파일을 제거합니다"
+      ],
+      [
+        "찾아서 가리기",
+        "텍스트를 영구적으로 검게 가립니다"
+      ],
+      [
+        "디지털 서명",
+        "서명 및 확인(무결성)"
+      ],
+      [
+        "첨부 파일 추가",
+        "PDF에 파일을 포함합니다"
       ]
-    ]
-  },
-  "converter": {
-    "title": "<b>PDF</b>를 <b>Word</b>로 몇 초 만에 변환",
-    "demo": "데모 전용 — 작동하지 않음",
-    "choose": "파일 선택",
-    "drop": "또는 여기에 파일을 놓으세요",
-    "convert": "지금 변환",
-    "howTitle": "PDF를 Word로 변환하는 방법",
-    "steps": [
-      "PDF 파일을 끌어다 놓거나 기기에서 선택하세요.",
-      "출력 형식으로 Word를 선택하세요.",
-      "‘지금 변환’을 누르고 몇 초 기다리세요.",
-      "편집 가능한 DOCX를 다운로드하세요 — 어떤 것도 기기 밖으로 나가지 않습니다."
     ]
   },
   "pricing": {

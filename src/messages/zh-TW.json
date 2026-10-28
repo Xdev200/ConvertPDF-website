@@ -8,107 +8,380 @@
   },
   "skip": "跳到主要內容",
   "nav": {
-    "tools": "工具",
-    "merge": "合併 PDF",
-    "sign": "PDF 簽名",
     "pricing": "價格",
-    "files": "我的檔案",
-    "login": "支援",
-    "signup": "取得 App",
-    "language": "語言"
+    "support": "支援",
+    "getApp": "取得 App"
   },
   "hero": {
     "title": "一站式<b>線上 PDF 工具。</b>",
     "text": "我們打造 PDF 工具，讓您的生活更輕鬆。轉換為 PDF、從 PDF 轉換、合併、填寫、簽名和壓縮 PDF，只需幾次點選——直接在您的 Mac 或 iPhone 上完成。",
-    "explore": "探索工具",
-    "demo": "試用演示"
+    "explore": "探索工具"
   },
   "tools": {
-    "title": "最受歡迎的 PDF 工具",
-    "all": "檢視全部 91 個工具",
+    "title": "全部 PDF 工具",
+    "note": "全部 90 個工具皆在裝置上離線執行。取得 App 即可使用。",
+    "cta": "取得 App",
     "items": [
       [
-        "Word 轉 PDF",
-        "將 Word DOC 和 DOCX 檔案轉換為 PDF。"
+        "整理（多功能工具）",
+        "以視覺化方式重新排序、旋轉和刪除頁面"
       ],
       [
-        "PDF 轉 Word",
-        "將 PDF 轉換為可編輯的 DOC 或 DOCX 文件。"
+        "Merge PDFs",
+        "Merge several PDF files into one single document."
       ],
       [
-        "Excel 轉 PDF",
-        "將 Excel 表格轉換為 PDF，方便分享。"
+        "拆分 PDF",
+        "擷取頁面或頁面範圍"
       ],
       [
-        "PDF 轉 Excel",
-        "將 PDF 中的表格提取到 Excel 電子表格。"
+        "Extract PDF",
+        "Split your PDF and extract only the pages you want."
       ],
       [
-        "PDF 轉 PowerPoint",
-        "將 PDF 轉換為可編輯的 PPT 和 PPTX 簡報。"
+        "刪除頁面",
+        "刪除不需要的頁面"
       ],
       [
-        "PDF 轉 EPUB",
-        "將 PDF 轉換為可重排或固定版面的電子書，適用於任何閱讀器。"
+        "反轉頁面",
+        "反轉頁面順序"
       ],
       [
-        "PowerPoint 轉 PDF",
-        "將 PowerPoint 幻燈片轉換為 PDF，方便分享。"
+        "旋轉頁面",
+        "90°、180° 或任意自訂角度"
+      ],
+      [
+        "新增空白頁",
+        "在任意位置插入空白頁"
+      ],
+      [
+        "交替合併",
+        "交替合併 2 個或更多 PDF 的頁面"
+      ],
+      [
+        "拆分頁面",
+        "將每頁切成 2 份或 4 份"
+      ],
+      [
+        "N 合 1 / 格線合併",
+        "每張紙多頁"
+      ],
+      [
+        "PDF 小冊子",
+        "摺頁列印的拼版"
+      ],
+      [
+        "刪除空白頁",
+        "偵測並刪除空白頁"
+      ],
+      [
+        "裁切 PDF",
+        "裁切邊界，或自動裁掉空白"
+      ],
+      [
+        "統一頁面大小",
+        "讓所有頁面大小一致"
+      ],
+      [
+        "書籤",
+        "新增、列出或刪除大綱項目"
+      ],
+      [
+        "目錄",
+        "產生可點擊的目錄頁"
+      ],
+      [
+        "中繼資料",
+        "檢視、編輯或刪除文件資訊"
+      ],
+      [
+        "頁面尺寸",
+        "每個頁面的大小"
+      ],
+      [
+        "比較 PDF",
+        "尋找文字與視覺差異"
+      ],
+      [
+        "PDF 轉 ZIP",
+        "將 PDF（或每一頁）打包成 ZIP"
+      ],
+      [
+        "PDF 閱讀器",
+        "檢視、搜尋和縮放 PDF"
       ],
       [
         "圖片轉 PDF",
-        "將 JPG、PNG、BMP 等多種圖片格式轉換為 PDF。"
-      ],
-      [
-        "PDF 轉圖片",
-        "將 PDF 的每一頁轉換並提取為圖片。"
-      ],
-      [
-        "PNG 轉 PDF",
-        "將 PNG 圖片轉為易於閱讀的 PDF 檔案。"
-      ],
-      [
-        "PDF 轉 PNG",
-        "提取 PDF 的每一頁並轉換為 PNG。"
+        "Convert JPG, PNG, BMP and many more image formats to PDF."
       ],
       [
         "JPG 轉 PDF",
-        "幾秒鐘內將 JPG 和 JPEG 檔案轉換為 PDF。"
+        "將 JPG 圖片轉換為 PDF"
+      ],
+      [
+        "PNG 轉 PDF",
+        "將 PNG 圖片轉換為 PDF"
+      ],
+      [
+        "WebP 轉 PDF",
+        "將 WebP 圖片轉換為 PDF"
       ],
       [
         "BMP 轉 PDF",
-        "輕鬆將 BMP 圖片轉換為 PDF 文件。"
+        "將 BMP 圖片轉換為 PDF"
       ],
       [
-        "PDF 簽名",
-        "建立您自己的數字簽名，線上為 PDF 檔案簽名。"
+        "HEIC 轉 PDF",
+        "將 HEIC 圖片轉換為 PDF"
       ],
       [
-        "填寫 PDF 表單",
-        "向 PDF 新增文字，並填寫表單中的空白欄位。"
+        "TIFF 轉 PDF",
+        "將 TIFF 圖片轉換為 PDF"
       ],
       [
-        "合併 PDF",
-        "將多個 PDF 檔案合併為一個文件。"
+        "文字轉 PDF",
+        "純文字，自動分頁"
       ],
       [
-        "提取 PDF 頁面",
-        "拆分 PDF，只提取您需要的頁面。"
+        "JSON 轉 PDF",
+        "格式化的 JSON"
+      ],
+      [
+        "Markdown 轉 PDF",
+        "標題、清單、程式碼和粗體"
+      ],
+      [
+        "RTF 轉 PDF",
+        "格式化文字會保留字型與樣式"
+      ],
+      [
+        "SVG 轉 PDF",
+        "向量圖維持向量"
+      ],
+      [
+        "Word 轉 PDF",
+        "Convert Word DOC and DOCX formats to PDF files."
+      ],
+      [
+        "Excel 轉 PDF",
+        "Convert Excel spreadsheets to PDF and make them easy to share."
+      ],
+      [
+        "PowerPoint 轉 PDF",
+        "Convert PowerPoint slideshows to PDF for easy sharing."
+      ],
+      [
+        "XPS 轉 PDF",
+        "XPS / OXPS"
+      ],
+      [
+        "EPUB 轉 PDF",
+        "電子書"
+      ],
+      [
+        "MOBI 轉 PDF",
+        "Kindle 書籍（無保護）"
+      ],
+      [
+        "FB2 轉 PDF",
+        "FictionBook"
+      ],
+      [
+        "PSD 轉 PDF",
+        "Photoshop 檔案"
+      ],
+      [
+        "CBZ 轉 PDF",
+        "漫畫壓縮檔"
+      ],
+      [
+        "郵件轉 PDF",
+        "EML 郵件"
+      ],
+      [
+        "PDF 轉圖片",
+        "Convert and extract each page of your PDF into images."
+      ],
+      [
+        "PDF 轉 BMP",
+        "將頁面匯出為 BMP"
+      ],
+      [
+        "PDF 轉 TIFF",
+        "將頁面匯出為 TIFF"
+      ],
+      [
+        "PDF 轉 WebP",
+        "將頁面匯出為 WebP"
+      ],
+      [
+        "PDF 轉文字",
+        "將所有文字擷取為 .txt"
+      ],
+      [
+        "PDF 轉 Markdown",
+        "每頁文字匯出為 .md"
+      ],
+      [
+        "PDF 轉 JSON",
+        "將文字和中繼資料匯出為 JSON"
+      ],
+      [
+        "PDF to Word",
+        "Convert your PDF to an editable DOC or DOCX document."
+      ],
+      [
+        "PDF to Excel",
+        "Pull tables out of a PDF into an Excel spreadsheet."
+      ],
+      [
+        "擷取表格",
+        "將文字表格轉為 CSV"
+      ],
+      [
+        "PDF OCR 辨識",
+        "讓掃描版 PDF 可搜尋"
+      ],
+      [
+        "擷取圖片",
+        "儲存內嵌圖片"
+      ],
+      [
+        "擷取附件",
+        "儲存內嵌檔案"
+      ],
+      [
+        "PDF 轉 PowerPoint",
+        "Transform PDF into editable PPT and PPTX presentations."
+      ],
+      [
+        "PDF 轉 EPUB",
+        "Turn a PDF into a reflowable or fixed-layout e-book for any reader."
+      ],
+      [
+        "新增文字",
+        "在頁面上放置文字"
+      ],
+      [
+        "醒目提示與底線",
+        "標記某個詞組的所有符合項目"
+      ],
+      [
+        "簽署 PDF",
+        "Create your own digital signature and sign PDF files on your device."
+      ],
+      [
+        "浮水印",
+        "在頁面下方/上方加入文字或圖片"
+      ],
+      [
+        "頁碼",
+        "為每一頁編號"
+      ],
+      [
+        "頁首與頁尾",
+        "在頂部和底部加入文字"
+      ],
+      [
+        "圖章",
+        "已核准、草稿、機密…"
+      ],
+      [
+        "背景顏色",
+        "為頁面背景上色"
+      ],
+      [
+        "文字顏色",
+        "重新為深色文字和線條上色"
+      ],
+      [
+        "反轉顏色",
+        "適合深色模式的頁面"
+      ],
+      [
+        "移除註解",
+        "清除註解和標記"
+      ],
+      [
+        "Fill PDF Form",
+        "Add text to a PDF and fill in the empty fields of your form."
+      ],
+      [
+        "平面化 PDF",
+        "將註解和表單合併到頁面中"
+      ],
+      [
+        "壓縮 PDF",
+        "縮小 PDF 檔案大小"
+      ],
+      [
+        "修復 PDF",
+        "重建損毀的檔案"
+      ],
+      [
+        "點陣化 PDF",
+        "將頁面轉為平面圖片"
+      ],
+      [
+        "色調分離",
+        "縮減為扁平的海報色調"
+      ],
+      [
+        "PDF 轉灰階",
+        "移除所有顏色"
+      ],
+      [
+        "最佳化網頁瀏覽（重新儲存）",
+        "重寫檔案結構"
+      ],
+      [
+        "PDF/A 風格封存",
+        "帶中繼資料重新儲存，未經驗證"
+      ],
+      [
+        "文字轉圖像（無需字型）",
+        "消除對字型的依賴"
+      ],
+      [
+        "校正傾斜",
+        "校正掃描頁面的傾斜"
+      ],
+      [
+        "圖層（OCG）檢視器",
+        "列出 PDF 圖層"
+      ],
+      [
+        "加密 PDF",
+        "開啟時需要密碼"
+      ],
+      [
+        "解密 PDF",
+        "移除已知的密碼"
+      ],
+      [
+        "移除限制",
+        "清除列印/複製/編輯限制"
+      ],
+      [
+        "變更權限",
+        "允許/禁止列印、複製、編輯"
+      ],
+      [
+        "清理 PDF",
+        "移除中繼資料、指令碼和附件"
+      ],
+      [
+        "尋找並塗黑",
+        "永久塗黑文字"
+      ],
+      [
+        "數位簽章",
+        "簽署與驗證（完整性）"
+      ],
+      [
+        "新增附件",
+        "將檔案嵌入 PDF"
       ]
-    ]
-  },
-  "converter": {
-    "title": "幾秒鐘內將 <b>PDF</b> 轉換為 <b>Word</b>",
-    "demo": "僅為演示 — 無實際功能",
-    "choose": "選擇檔案",
-    "drop": "或將檔案拖放到此處",
-    "convert": "立即轉換",
-    "howTitle": "如何將 PDF 轉換為 Word",
-    "steps": [
-      "拖放您的 PDF 檔案，或從裝置中選擇。",
-      "選擇 Word 作為輸出格式。",
-      "點選“立即轉換”，稍等幾秒鐘。",
-      "下載可編輯的 DOCX——所有內容都不會離開您的裝置。"
     ]
   },
   "pricing": {

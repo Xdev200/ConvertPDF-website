@@ -8,107 +8,380 @@
   },
   "skip": "跳到主要内容",
   "nav": {
-    "tools": "工具",
-    "merge": "合并 PDF",
-    "sign": "PDF 签名",
     "pricing": "价格",
-    "files": "我的文件",
-    "login": "支持",
-    "signup": "获取应用",
-    "language": "语言"
+    "support": "支持",
+    "getApp": "获取应用"
   },
   "hero": {
     "title": "一站式<b>在线 PDF 工具。</b>",
     "text": "我们打造 PDF 工具，让您的生活更轻松。转换为 PDF、从 PDF 转换、合并、填写、签名和压缩 PDF，只需几次点击——直接在您的 Mac 或 iPhone 上完成。",
-    "explore": "探索工具",
-    "demo": "试用演示"
+    "explore": "探索工具"
   },
   "tools": {
-    "title": "最受欢迎的 PDF 工具",
-    "all": "查看全部 91 个工具",
+    "title": "全部 PDF 工具",
+    "note": "全部 90 个工具均在设备上离线运行。获取 App 即可使用。",
+    "cta": "获取 App",
     "items": [
       [
-        "Word 转 PDF",
-        "将 Word DOC 和 DOCX 文件转换为 PDF。"
+        "整理（多功能工具）",
+        "可视化地重新排序、旋转和删除页面"
       ],
       [
-        "PDF 转 Word",
-        "将 PDF 转换为可编辑的 DOC 或 DOCX 文档。"
+        "Merge PDFs",
+        "Merge several PDF files into one single document."
       ],
       [
-        "Excel 转 PDF",
-        "将 Excel 表格转换为 PDF，方便分享。"
+        "拆分 PDF",
+        "提取页面或页面范围"
       ],
       [
-        "PDF 转 Excel",
-        "将 PDF 中的表格提取到 Excel 电子表格。"
+        "Extract PDF",
+        "Split your PDF and extract only the pages you want."
       ],
       [
-        "PDF 转 PowerPoint",
-        "将 PDF 转换为可编辑的 PPT 和 PPTX 演示文稿。"
+        "删除页面",
+        "删除不需要的页面"
       ],
       [
-        "PDF 转 EPUB",
-        "将 PDF 转换为可重排或固定版式的电子书，适用于任何阅读器。"
+        "反转页面",
+        "反转页面顺序"
       ],
       [
-        "PowerPoint 转 PDF",
-        "将 PowerPoint 幻灯片转换为 PDF，方便分享。"
+        "旋转页面",
+        "90°、180° 或任意自定义角度"
+      ],
+      [
+        "添加空白页",
+        "在任意位置插入空白页"
+      ],
+      [
+        "交替合并",
+        "交替合并 2 个或更多 PDF 的页面"
+      ],
+      [
+        "拆分页面",
+        "将每页切成 2 份或 4 份"
+      ],
+      [
+        "N 合 1 / 网格合并",
+        "每张纸多页"
+      ],
+      [
+        "PDF 小册子",
+        "折页打印的拼版"
+      ],
+      [
+        "删除空白页",
+        "检测并删除空白页"
+      ],
+      [
+        "裁剪 PDF",
+        "裁剪页边距，或自动裁掉空白"
+      ],
+      [
+        "统一页面大小",
+        "让所有页面大小一致"
+      ],
+      [
+        "书签",
+        "添加、列出或删除大纲条目"
+      ],
+      [
+        "目录",
+        "生成可点击的目录页"
+      ],
+      [
+        "元数据",
+        "查看、编辑或删除文档信息"
+      ],
+      [
+        "页面尺寸",
+        "每个页面的大小"
+      ],
+      [
+        "比较 PDF",
+        "查找文字和视觉差异"
+      ],
+      [
+        "PDF 转 ZIP",
+        "将 PDF（或每一页）打包成 ZIP"
+      ],
+      [
+        "PDF 阅读器",
+        "查看、搜索和缩放 PDF"
       ],
       [
         "图片转 PDF",
-        "将 JPG、PNG、BMP 等多种图片格式转换为 PDF。"
-      ],
-      [
-        "PDF 转图片",
-        "将 PDF 的每一页转换并提取为图片。"
-      ],
-      [
-        "PNG 转 PDF",
-        "将 PNG 图片转为易于阅读的 PDF 文件。"
-      ],
-      [
-        "PDF 转 PNG",
-        "提取 PDF 的每一页并转换为 PNG。"
+        "Convert JPG, PNG, BMP and many more image formats to PDF."
       ],
       [
         "JPG 转 PDF",
-        "几秒钟内将 JPG 和 JPEG 文件转换为 PDF。"
+        "将 JPG 图片转换为 PDF"
+      ],
+      [
+        "PNG 转 PDF",
+        "将 PNG 图片转换为 PDF"
+      ],
+      [
+        "WebP 转 PDF",
+        "将 WebP 图片转换为 PDF"
       ],
       [
         "BMP 转 PDF",
-        "轻松将 BMP 图片转换为 PDF 文档。"
+        "将 BMP 图片转换为 PDF"
       ],
       [
-        "PDF 签名",
-        "创建您自己的数字签名，在线为 PDF 文件签名。"
+        "HEIC 转 PDF",
+        "将 HEIC 图片转换为 PDF"
       ],
       [
-        "填写 PDF 表单",
-        "向 PDF 添加文字，并填写表单中的空白字段。"
+        "TIFF 转 PDF",
+        "将 TIFF 图片转换为 PDF"
       ],
       [
-        "合并 PDF",
-        "将多个 PDF 文件合并为一个文档。"
+        "文本转 PDF",
+        "纯文本，自动分页"
       ],
       [
-        "提取 PDF 页面",
-        "拆分 PDF，只提取您需要的页面。"
+        "JSON 转 PDF",
+        "格式化的 JSON"
+      ],
+      [
+        "Markdown 转 PDF",
+        "标题、列表、代码和粗体"
+      ],
+      [
+        "RTF 转 PDF",
+        "富文本保留字体和样式"
+      ],
+      [
+        "SVG 转 PDF",
+        "矢量图保持矢量"
+      ],
+      [
+        "Word 转 PDF",
+        "Convert Word DOC and DOCX formats to PDF files."
+      ],
+      [
+        "Excel 转 PDF",
+        "Convert Excel spreadsheets to PDF and make them easy to share."
+      ],
+      [
+        "PowerPoint 转 PDF",
+        "Convert PowerPoint slideshows to PDF for easy sharing."
+      ],
+      [
+        "XPS 转 PDF",
+        "XPS / OXPS"
+      ],
+      [
+        "EPUB 转 PDF",
+        "电子书"
+      ],
+      [
+        "MOBI 转 PDF",
+        "Kindle 书籍（无保护）"
+      ],
+      [
+        "FB2 转 PDF",
+        "FictionBook"
+      ],
+      [
+        "PSD 转 PDF",
+        "Photoshop 文件"
+      ],
+      [
+        "CBZ 转 PDF",
+        "漫画压缩包"
+      ],
+      [
+        "邮件转 PDF",
+        "EML 邮件"
+      ],
+      [
+        "PDF 转图片",
+        "Convert and extract each page of your PDF into images."
+      ],
+      [
+        "PDF 转 BMP",
+        "将页面导出为 BMP"
+      ],
+      [
+        "PDF 转 TIFF",
+        "将页面导出为 TIFF"
+      ],
+      [
+        "PDF 转 WebP",
+        "将页面导出为 WebP"
+      ],
+      [
+        "PDF 转文本",
+        "将所有文本提取为 .txt"
+      ],
+      [
+        "PDF 转 Markdown",
+        "每页文本导出为 .md"
+      ],
+      [
+        "PDF 转 JSON",
+        "将文本和元数据导出为 JSON"
+      ],
+      [
+        "PDF to Word",
+        "Convert your PDF to an editable DOC or DOCX document."
+      ],
+      [
+        "PDF to Excel",
+        "Pull tables out of a PDF into an Excel spreadsheet."
+      ],
+      [
+        "提取表格",
+        "将文本表格转为 CSV"
+      ],
+      [
+        "PDF OCR 识别",
+        "让扫描版 PDF 可搜索"
+      ],
+      [
+        "提取图片",
+        "保存内嵌图片"
+      ],
+      [
+        "提取附件",
+        "保存内嵌文件"
+      ],
+      [
+        "PDF 转 PowerPoint",
+        "Transform PDF into editable PPT and PPTX presentations."
+      ],
+      [
+        "PDF 转 EPUB",
+        "Turn a PDF into a reflowable or fixed-layout e-book for any reader."
+      ],
+      [
+        "添加文本",
+        "在页面上放置文本"
+      ],
+      [
+        "高亮与下划线",
+        "标记某个短语的所有匹配项"
+      ],
+      [
+        "签署 PDF",
+        "Create your own digital signature and sign PDF files on your device."
+      ],
+      [
+        "水印",
+        "在页面下方/上方添加文本或图片"
+      ],
+      [
+        "页码",
+        "为每一页编号"
+      ],
+      [
+        "页眉和页脚",
+        "在顶部和底部添加文本"
+      ],
+      [
+        "图章",
+        "已批准、草稿、机密…"
+      ],
+      [
+        "背景颜色",
+        "为页面背景着色"
+      ],
+      [
+        "文字颜色",
+        "重新为深色文本和线条着色"
+      ],
+      [
+        "反色",
+        "适合深色模式的页面"
+      ],
+      [
+        "删除批注",
+        "清除评论和标记"
+      ],
+      [
+        "Fill PDF Form",
+        "Add text to a PDF and fill in the empty fields of your form."
+      ],
+      [
+        "展平 PDF",
+        "将批注和表单合并到页面中"
+      ],
+      [
+        "压缩 PDF",
+        "缩小 PDF 体积"
+      ],
+      [
+        "修复 PDF",
+        "重建损坏的文件"
+      ],
+      [
+        "栅格化 PDF",
+        "将页面转为平面图片"
+      ],
+      [
+        "色调分离",
+        "缩减为扁平的海报色调"
+      ],
+      [
+        "PDF 转灰度",
+        "移除所有颜色"
+      ],
+      [
+        "优化网页浏览（重新保存）",
+        "重写文件结构"
+      ],
+      [
+        "PDF/A 风格存档",
+        "带元数据重新保存，未经验证"
+      ],
+      [
+        "文字转图像（无需字体）",
+        "消除对字体的依赖"
+      ],
+      [
+        "纠偏",
+        "校正扫描页面的倾斜"
+      ],
+      [
+        "图层（OCG）查看器",
+        "列出 PDF 图层"
+      ],
+      [
+        "加密 PDF",
+        "打开时需要密码"
+      ],
+      [
+        "解密 PDF",
+        "移除已知的密码"
+      ],
+      [
+        "移除限制",
+        "清除打印/复制/编辑限制"
+      ],
+      [
+        "更改权限",
+        "允许/禁止打印、复制、编辑"
+      ],
+      [
+        "清理 PDF",
+        "删除元数据、脚本和附件"
+      ],
+      [
+        "查找并涂黑",
+        "永久涂黑文本"
+      ],
+      [
+        "数字签名",
+        "签名与验证（完整性）"
+      ],
+      [
+        "添加附件",
+        "将文件嵌入 PDF"
       ]
-    ]
-  },
-  "converter": {
-    "title": "几秒钟内将 <b>PDF</b> 转换为 <b>Word</b>",
-    "demo": "仅为演示 — 无实际功能",
-    "choose": "选择文件",
-    "drop": "或将文件拖放到此处",
-    "convert": "立即转换",
-    "howTitle": "如何将 PDF 转换为 Word",
-    "steps": [
-      "拖放您的 PDF 文件，或从设备中选择。",
-      "选择 Word 作为输出格式。",
-      "点击“立即转换”，稍等几秒钟。",
-      "下载可编辑的 DOCX——所有内容都不会离开您的设备。"
     ]
   },
   "pricing": {

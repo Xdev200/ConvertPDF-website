@@ -8,107 +8,380 @@
   },
   "skip": "Chuyển đến nội dung",
   "nav": {
-    "tools": "Công cụ",
-    "merge": "Gộp PDF",
-    "sign": "Ký PDF",
     "pricing": "Bảng giá",
-    "files": "Tệp của tôi",
-    "login": "Hỗ trợ",
-    "signup": "Tải ứng dụng",
-    "language": "Ngôn ngữ"
+    "support": "Hỗ trợ",
+    "getApp": "Tải ứng dụng"
   },
   "hero": {
     "title": "Bộ <b>công cụ PDF trực tuyến</b> tất cả trong một.",
     "text": "Chúng tôi xây dựng công cụ PDF để cuộc sống của bạn dễ dàng hơn. Chuyển đổi tệp sang và từ PDF, gộp, điền, ký và nén PDF chỉ với vài cú nhấp — ngay trên Mac hoặc iPhone của bạn.",
-    "explore": "Khám phá công cụ",
-    "demo": "Dùng thử bản demo"
+    "explore": "Khám phá công cụ"
   },
   "tools": {
-    "title": "Công cụ PDF phổ biến nhất",
-    "all": "Xem tất cả 91 công cụ",
+    "title": "Tất cả công cụ PDF",
+    "note": "Tất cả 90 công cụ chạy ngoại tuyến trên thiết bị. Tải ứng dụng để dùng.",
+    "cta": "Tải ứng dụng",
     "items": [
       [
-        "Word sang PDF",
-        "Chuyển tệp Word DOC và DOCX sang PDF."
+        "Sắp xếp (đa công cụ)",
+        "Sắp xếp lại, xoay và xóa trang trực quan"
       ],
       [
-        "PDF sang Word",
-        "Chuyển PDF của bạn thành tài liệu DOC hoặc DOCX có thể chỉnh sửa."
+        "Merge PDFs",
+        "Merge several PDF files into one single document."
       ],
       [
-        "Excel sang PDF",
-        "Chuyển bảng tính Excel sang PDF để dễ dàng chia sẻ."
+        "Tách PDF",
+        "Trích xuất trang hoặc phạm vi trang"
       ],
       [
-        "PDF sang Excel",
-        "Trích xuất bảng từ PDF sang bảng tính Excel."
+        "Extract PDF",
+        "Split your PDF and extract only the pages you want."
       ],
       [
-        "PDF sang PowerPoint",
-        "Chuyển PDF thành bản trình chiếu PPT và PPTX có thể chỉnh sửa."
+        "Xóa trang",
+        "Xóa các trang bạn không cần"
       ],
       [
-        "PDF sang EPUB",
-        "Chuyển PDF thành sách điện tử tự dàn trang hoặc bố cục cố định cho mọi trình đọc."
+        "Đảo ngược trang",
+        "Đảo ngược thứ tự trang"
       ],
       [
-        "PowerPoint sang PDF",
-        "Chuyển bản trình chiếu PowerPoint sang PDF để dễ chia sẻ."
+        "Xoay trang",
+        "90°, 180° hoặc góc tùy chỉnh"
+      ],
+      [
+        "Thêm trang trống",
+        "Chèn trang trống vào bất kỳ vị trí nào"
+      ],
+      [
+        "Xen kẽ & Trộn",
+        "Xen kẽ trang từ 2 PDF trở lên"
+      ],
+      [
+        "Chia trang",
+        "Cắt mỗi trang thành 2 hoặc 4 phần"
+      ],
+      [
+        "N-Up / Ghép lưới",
+        "Nhiều trang trên một tờ"
+      ],
+      [
+        "Sách nhỏ PDF",
+        "Sắp trang cho in gấp"
+      ],
+      [
+        "Xóa trang trống",
+        "Phát hiện và loại bỏ trang trống"
+      ],
+      [
+        "Cắt PDF",
+        "Cắt lề hoặc tự động cắt khoảng trắng"
+      ],
+      [
+        "Thống nhất kích thước trang",
+        "Đưa mọi trang về cùng một kích thước"
+      ],
+      [
+        "Dấu trang",
+        "Thêm, liệt kê hoặc xóa mục lục"
+      ],
+      [
+        "Mục lục",
+        "Tạo trang mục lục có thể nhấp"
+      ],
+      [
+        "Siêu dữ liệu",
+        "Xem, sửa hoặc xóa thông tin tài liệu"
+      ],
+      [
+        "Kích thước các trang",
+        "Kích thước của từng trang"
+      ],
+      [
+        "So sánh PDF",
+        "Tìm điểm khác biệt về văn bản và hình ảnh"
+      ],
+      [
+        "PDF sang ZIP",
+        "Đóng gói các PDF (hoặc từng trang) vào ZIP"
+      ],
+      [
+        "Trình đọc PDF",
+        "Xem, tìm kiếm và phóng to PDF"
       ],
       [
         "Ảnh sang PDF",
-        "Chuyển JPG, PNG, BMP và nhiều định dạng ảnh khác sang PDF."
-      ],
-      [
-        "PDF sang ảnh",
-        "Chuyển và trích xuất từng trang PDF thành ảnh."
-      ],
-      [
-        "PNG sang PDF",
-        "Biến ảnh PNG của bạn thành tệp PDF dễ đọc."
-      ],
-      [
-        "PDF sang PNG",
-        "Trích xuất từng trang PDF và chuyển thành PNG."
+        "Convert JPG, PNG, BMP and many more image formats to PDF."
       ],
       [
         "JPG sang PDF",
-        "Chuyển tệp JPG và JPEG sang PDF chỉ trong vài giây."
+        "Biến ảnh JPG thành PDF"
+      ],
+      [
+        "PNG sang PDF",
+        "Biến ảnh PNG thành PDF"
+      ],
+      [
+        "WebP sang PDF",
+        "Biến ảnh WebP thành PDF"
       ],
       [
         "BMP sang PDF",
-        "Dễ dàng chuyển ảnh BMP thành tài liệu PDF."
+        "Biến ảnh BMP thành PDF"
+      ],
+      [
+        "HEIC sang PDF",
+        "Biến ảnh HEIC thành PDF"
+      ],
+      [
+        "TIFF sang PDF",
+        "Biến ảnh TIFF thành PDF"
+      ],
+      [
+        "Văn bản sang PDF",
+        "Văn bản thuần với ngắt trang tự động"
+      ],
+      [
+        "JSON sang PDF",
+        "JSON được định dạng đẹp"
+      ],
+      [
+        "Markdown sang PDF",
+        "Tiêu đề, danh sách, mã và chữ đậm"
+      ],
+      [
+        "RTF sang PDF",
+        "Rich text giữ nguyên phông chữ và kiểu"
+      ],
+      [
+        "SVG sang PDF",
+        "Ảnh vector vẫn giữ dạng vector"
+      ],
+      [
+        "Word sang PDF",
+        "Convert Word DOC and DOCX formats to PDF files."
+      ],
+      [
+        "Excel sang PDF",
+        "Convert Excel spreadsheets to PDF and make them easy to share."
+      ],
+      [
+        "PowerPoint sang PDF",
+        "Convert PowerPoint slideshows to PDF for easy sharing."
+      ],
+      [
+        "XPS sang PDF",
+        "XPS / OXPS"
+      ],
+      [
+        "EPUB sang PDF",
+        "Sách điện tử"
+      ],
+      [
+        "MOBI sang PDF",
+        "Sách Kindle (không được bảo vệ)"
+      ],
+      [
+        "FB2 sang PDF",
+        "FictionBook"
+      ],
+      [
+        "PSD sang PDF",
+        "Tệp Photoshop"
+      ],
+      [
+        "CBZ sang PDF",
+        "Tệp truyện tranh"
+      ],
+      [
+        "Email sang PDF",
+        "Thư EML"
+      ],
+      [
+        "PDF sang ảnh",
+        "Convert and extract each page of your PDF into images."
+      ],
+      [
+        "PDF sang BMP",
+        "Xuất trang thành BMP"
+      ],
+      [
+        "PDF sang TIFF",
+        "Xuất trang thành TIFF"
+      ],
+      [
+        "PDF sang WebP",
+        "Xuất trang thành WebP"
+      ],
+      [
+        "PDF sang văn bản",
+        "Trích xuất toàn bộ văn bản thành .txt"
+      ],
+      [
+        "PDF sang Markdown",
+        "Văn bản từng trang thành .md"
+      ],
+      [
+        "PDF sang JSON",
+        "Văn bản và siêu dữ liệu dạng JSON"
+      ],
+      [
+        "PDF to Word",
+        "Convert your PDF to an editable DOC or DOCX document."
+      ],
+      [
+        "PDF to Excel",
+        "Pull tables out of a PDF into an Excel spreadsheet."
+      ],
+      [
+        "Trích xuất bảng",
+        "Bảng dạng văn bản sang CSV"
+      ],
+      [
+        "OCR PDF",
+        "Làm cho PDF quét có thể tìm kiếm"
+      ],
+      [
+        "Trích xuất ảnh",
+        "Lưu các ảnh được nhúng"
+      ],
+      [
+        "Trích xuất tệp đính kèm",
+        "Lưu các tệp được nhúng"
+      ],
+      [
+        "PDF sang PowerPoint",
+        "Transform PDF into editable PPT and PPTX presentations."
+      ],
+      [
+        "PDF sang EPUB",
+        "Turn a PDF into a reflowable or fixed-layout e-book for any reader."
+      ],
+      [
+        "Thêm văn bản",
+        "Đặt văn bản lên các trang"
+      ],
+      [
+        "Tô sáng & Gạch chân",
+        "Đánh dấu mọi chỗ khớp với một cụm từ"
       ],
       [
         "Ký PDF",
-        "Tạo chữ ký số của riêng bạn và ký tệp PDF trực tuyến."
+        "Create your own digital signature and sign PDF files on your device."
       ],
       [
-        "Điền biểu mẫu PDF",
-        "Thêm văn bản vào PDF và điền vào các trường trống của biểu mẫu."
+        "Hình mờ",
+        "Văn bản hoặc ảnh phía sau/trên các trang"
       ],
       [
-        "Gộp PDF",
-        "Gộp nhiều tệp PDF thành một tài liệu duy nhất."
+        "Số trang",
+        "Đánh số từng trang"
       ],
       [
-        "Trích xuất trang PDF",
-        "Tách PDF và chỉ trích xuất những trang bạn muốn."
+        "Đầu trang & Chân trang",
+        "Văn bản ở đầu và cuối trang"
+      ],
+      [
+        "Con dấu",
+        "ĐÃ DUYỆT, BẢN NHÁP, BẢO MẬT…"
+      ],
+      [
+        "Màu nền",
+        "Tô màu nền trang"
+      ],
+      [
+        "Màu chữ",
+        "Đổi màu văn bản và đường kẻ tối"
+      ],
+      [
+        "Đảo màu",
+        "Trang phù hợp chế độ tối"
+      ],
+      [
+        "Xóa chú thích",
+        "Gỡ bình luận và đánh dấu"
+      ],
+      [
+        "Fill PDF Form",
+        "Add text to a PDF and fill in the empty fields of your form."
+      ],
+      [
+        "Làm phẳng PDF",
+        "Gộp chú thích và biểu mẫu vào trang"
+      ],
+      [
+        "Nén PDF",
+        "Làm PDF nhẹ hơn"
+      ],
+      [
+        "Sửa PDF",
+        "Dựng lại tệp bị hỏng"
+      ],
+      [
+        "Raster hóa PDF",
+        "Biến trang thành ảnh phẳng"
+      ],
+      [
+        "Posterize",
+        "Giảm xuống các tông màu phẳng như áp phích"
+      ],
+      [
+        "PDF sang thang xám",
+        "Loại bỏ toàn bộ màu"
+      ],
+      [
+        "Tối ưu cho web (lưu lại)",
+        "Ghi lại cấu trúc tệp"
+      ],
+      [
+        "Lưu trữ kiểu PDF/A",
+        "Lưu lại kèm siêu dữ liệu, chưa được xác thực"
+      ],
+      [
+        "Văn bản sang ảnh (không cần phông)",
+        "Loại bỏ phụ thuộc phông chữ"
+      ],
+      [
+        "Chỉnh nghiêng",
+        "Làm thẳng các trang quét"
+      ],
+      [
+        "Trình xem lớp (OCG)",
+        "Liệt kê các lớp của PDF"
+      ],
+      [
+        "Mã hóa PDF",
+        "Yêu cầu mật khẩu để mở"
+      ],
+      [
+        "Giải mã PDF",
+        "Gỡ mật khẩu mà bạn biết"
+      ],
+      [
+        "Gỡ hạn chế",
+        "Gỡ giới hạn in/sao chép/chỉnh sửa"
+      ],
+      [
+        "Đổi quyền",
+        "Cho phép/chặn in, sao chép, chỉnh sửa"
+      ],
+      [
+        "Làm sạch PDF",
+        "Loại bỏ siêu dữ liệu, tập lệnh & tệp đính kèm"
+      ],
+      [
+        "Tìm & Che",
+        "Che đen văn bản vĩnh viễn"
+      ],
+      [
+        "Chữ ký số",
+        "Ký & xác minh (tính toàn vẹn)"
+      ],
+      [
+        "Thêm tệp đính kèm",
+        "Nhúng tệp vào PDF"
       ]
-    ]
-  },
-  "converter": {
-    "title": "Chuyển <b>PDF</b> sang <b>Word</b> trong vài giây",
-    "demo": "Chỉ là bản demo — không hoạt động",
-    "choose": "Chọn tệp",
-    "drop": "hoặc thả tệp vào đây",
-    "convert": "Chuyển đổi ngay",
-    "howTitle": "Cách chuyển PDF sang Word",
-    "steps": [
-      "Kéo và thả tệp PDF của bạn, hoặc chọn từ thiết bị.",
-      "Chọn Word làm định dạng đầu ra.",
-      "Nhấn CHUYỂN ĐỔI NGAY và chờ vài giây.",
-      "Tải xuống tệp DOCX có thể chỉnh sửa — không có gì rời khỏi thiết bị của bạn."
     ]
   },
   "pricing": {

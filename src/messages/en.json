@@ -8,40 +8,247 @@
   },
   "skip": "Skip to content",
   "nav": {
-    "tools": "Tools",
-    "merge": "Merge PDF",
-    "sign": "Sign PDF",
     "pricing": "Pricing",
-    "files": "My Files",
-    "login": "Support",
-    "signup": "Get App",
-    "language": "Language"
+    "support": "Support",
+    "getApp": "Get App"
   },
   "hero": {
     "title": "Your All-in-One <b>Offline PDF Tools.</b>",
     "text": "ConvertPDF runs on your device — no cloud uploads. Merge, fill, sign, compress, OCR, and convert PDFs on iPhone, iPad, and Mac.",
-    "explore": "Explore Tools",
-    "demo": "Try the demo"
+    "explore": "Explore Tools"
   },
   "tools": {
-    "title": "Most Popular PDF Tools",
-    "all": "See all 91 tools",
+    "title": "All PDF Tools",
+    "note": "All 90 tools run offline on your device. Get the app to use them.",
+    "cta": "Get App",
     "items": [
+      [
+        "Organize (Multi Tool)",
+        "Reorder, rotate and delete pages visually"
+      ],
+      [
+        "Merge PDFs",
+        "Merge several PDF files into one single document."
+      ],
+      [
+        "Split PDF",
+        "Extract pages or page ranges"
+      ],
+      [
+        "Extract PDF",
+        "Split your PDF and extract only the pages you want."
+      ],
+      [
+        "Delete Pages",
+        "Remove pages you don't need"
+      ],
+      [
+        "Reverse Pages",
+        "Flip the page order"
+      ],
+      [
+        "Rotate Pages",
+        "90°, 180° or any custom angle"
+      ],
+      [
+        "Add Blank Pages",
+        "Insert empty pages anywhere"
+      ],
+      [
+        "Alternate & Mix",
+        "Interleave pages from 2+ PDFs"
+      ],
+      [
+        "Divide Pages",
+        "Cut each page into 2 or 4 parts"
+      ],
+      [
+        "N-Up / Grid Combine",
+        "Several pages per sheet"
+      ],
+      [
+        "PDF Booklet",
+        "Imposition for folded printing"
+      ],
+      [
+        "Remove Blank Pages",
+        "Detect and drop empty pages"
+      ],
+      [
+        "Crop PDF",
+        "Trim margins, or auto-trim whitespace"
+      ],
+      [
+        "Fix Page Size",
+        "Make every page the same size"
+      ],
+      [
+        "Bookmarks",
+        "Add, list or remove outline entries"
+      ],
+      [
+        "Table of Contents",
+        "Generate a clickable contents page"
+      ],
+      [
+        "Metadata",
+        "View, edit or remove document info"
+      ],
+      [
+        "Page Dimensions",
+        "Sizes of every page"
+      ],
+      [
+        "Compare PDFs",
+        "Find text and visual differences"
+      ],
+      [
+        "PDF to ZIP",
+        "Bundle PDFs (or each page) in a ZIP"
+      ],
+      [
+        "PDF Reader",
+        "View, search and zoom a PDF"
+      ],
+      [
+        "Images to PDF",
+        "Convert JPG, PNG, BMP and many more image formats to PDF."
+      ],
+      [
+        "JPG to PDF",
+        "Turn JPG images into a PDF"
+      ],
+      [
+        "PNG to PDF",
+        "Turn PNG images into a PDF"
+      ],
+      [
+        "WebP to PDF",
+        "Turn WebP images into a PDF"
+      ],
+      [
+        "BMP to PDF",
+        "Turn BMP images into a PDF"
+      ],
+      [
+        "HEIC to PDF",
+        "Turn HEIC images into a PDF"
+      ],
+      [
+        "TIFF to PDF",
+        "Turn TIFF images into a PDF"
+      ],
+      [
+        "Text to PDF",
+        "Plain text with automatic pages"
+      ],
+      [
+        "JSON to PDF",
+        "Pretty-printed JSON"
+      ],
+      [
+        "Markdown to PDF",
+        "Headings, lists, code and bold"
+      ],
+      [
+        "RTF to PDF",
+        "Rich text keeps fonts and styles"
+      ],
+      [
+        "SVG to PDF",
+        "Vector images stay vector"
+      ],
       [
         "Word to PDF",
         "Convert Word DOC and DOCX formats to PDF files."
-      ],
-      [
-        "PDF to Word",
-        "Convert your PDF to an editable DOC or DOCX document."
       ],
       [
         "Excel to PDF",
         "Convert Excel spreadsheets to PDF and make them easy to share."
       ],
       [
+        "PowerPoint to PDF",
+        "Convert PowerPoint slideshows to PDF for easy sharing."
+      ],
+      [
+        "XPS to PDF",
+        "XPS / OXPS"
+      ],
+      [
+        "EPUB to PDF",
+        "E-books"
+      ],
+      [
+        "MOBI to PDF",
+        "Kindle books (unprotected)"
+      ],
+      [
+        "FB2 to PDF",
+        "FictionBook"
+      ],
+      [
+        "PSD to PDF",
+        "Photoshop files"
+      ],
+      [
+        "CBZ to PDF",
+        "Comic archives"
+      ],
+      [
+        "Email to PDF",
+        "EML messages"
+      ],
+      [
+        "PDF to Images",
+        "Convert and extract each page of your PDF into images."
+      ],
+      [
+        "PDF to BMP",
+        "Export pages as BMP"
+      ],
+      [
+        "PDF to TIFF",
+        "Export pages as TIFF"
+      ],
+      [
+        "PDF to WebP",
+        "Export pages as WebP"
+      ],
+      [
+        "PDF to Text",
+        "Extract all text as .txt"
+      ],
+      [
+        "PDF to Markdown",
+        "Text per page as .md"
+      ],
+      [
+        "PDF to JSON",
+        "Text and metadata as JSON"
+      ],
+      [
+        "PDF to Word",
+        "Convert your PDF to an editable DOC or DOCX document."
+      ],
+      [
         "PDF to Excel",
         "Pull tables out of a PDF into an Excel spreadsheet."
+      ],
+      [
+        "Extract Tables",
+        "Text-based tables to CSV"
+      ],
+      [
+        "OCR PDF",
+        "Make scanned PDFs searchable"
+      ],
+      [
+        "Extract Images",
+        "Save embedded images"
+      ],
+      [
+        "Extract Attachments",
+        "Save embedded files"
       ],
       [
         "PDF to PowerPoint",
@@ -52,63 +259,129 @@
         "Turn a PDF into a reflowable or fixed-layout e-book for any reader."
       ],
       [
-        "PowerPoint to PDF",
-        "Convert PowerPoint slideshows to PDF for easy sharing."
+        "Add Text",
+        "Place text on pages"
       ],
       [
-        "Images to PDF",
-        "Convert JPG, PNG, BMP and many more image formats to PDF."
-      ],
-      [
-        "PDF to Images",
-        "Convert and extract each page of your PDF into images."
-      ],
-      [
-        "PNG to PDF",
-        "Turn your PNG images into readable PDF files."
-      ],
-      [
-        "PDF to PNG",
-        "Extract each page of your PDF and convert them to PNG."
-      ],
-      [
-        "JPG to PDF",
-        "Convert JPG and JPEG files to PDF in a few seconds."
-      ],
-      [
-        "BMP to PDF",
-        "Convert your BMP images to PDF documents easily."
+        "Highlight & Underline",
+        "Mark every match of a phrase"
       ],
       [
         "Sign PDF",
-        "Create your own digital signature and sign PDF files online."
+        "Create your own digital signature and sign PDF files on your device."
+      ],
+      [
+        "Watermark",
+        "Text or image behind/over pages"
+      ],
+      [
+        "Page Numbers",
+        "Number every page"
+      ],
+      [
+        "Header & Footer",
+        "Text at the top and bottom"
+      ],
+      [
+        "Stamps",
+        "APPROVED, DRAFT, CONFIDENTIAL…"
+      ],
+      [
+        "Background Colour",
+        "Tint the page background"
+      ],
+      [
+        "Text Colour",
+        "Recolour dark text and lines"
+      ],
+      [
+        "Invert Colours",
+        "Dark-mode friendly pages"
+      ],
+      [
+        "Remove Annotations",
+        "Strip comments and markup"
       ],
       [
         "Fill PDF Form",
         "Add text to a PDF and fill in the empty fields of your form."
       ],
       [
-        "Merge PDFs",
-        "Merge several PDF files into one single document."
+        "Flatten PDF",
+        "Merge annotations and forms into pages"
       ],
       [
-        "Extract PDF",
-        "Split your PDF and extract only the pages you want."
+        "Compress PDF",
+        "Make PDFs smaller"
+      ],
+      [
+        "Repair PDF",
+        "Rebuild a damaged file"
+      ],
+      [
+        "Rasterize PDF",
+        "Turn pages into flat images"
+      ],
+      [
+        "Posterize",
+        "Reduce to flat poster tones"
+      ],
+      [
+        "PDF to Greyscale",
+        "Remove all colour"
+      ],
+      [
+        "Optimize for Web (re-save)",
+        "Rewrite file structure"
+      ],
+      [
+        "PDF/A-style Archive",
+        "Metadata re-save, not validated"
+      ],
+      [
+        "Text to Image (no fonts)",
+        "Remove font dependency"
+      ],
+      [
+        "Deskew",
+        "Straighten scanned pages"
+      ],
+      [
+        "Layers (OCG) Viewer",
+        "List PDF layers"
+      ],
+      [
+        "Encrypt PDF",
+        "Require a password to open"
+      ],
+      [
+        "Decrypt PDF",
+        "Remove a password you know"
+      ],
+      [
+        "Remove Restrictions",
+        "Clear print/copy/edit limits"
+      ],
+      [
+        "Change Permissions",
+        "Allow/deny print, copy, edit"
+      ],
+      [
+        "Sanitize PDF",
+        "Drop metadata, scripts & attachments"
+      ],
+      [
+        "Find & Redact",
+        "Permanently black out text"
+      ],
+      [
+        "Digital Signature",
+        "Sign & verify (integrity)"
+      ],
+      [
+        "Add Attachments",
+        "Embed files in a PDF"
       ]
-    ]
-  },
-  "converter": {
-    "title": "Convert <b>PDF</b> to <b>Word</b> in Seconds",
-    "demo": "Demo only — not functional",
-    "choose": "Choose Files",
-    "drop": "or drop file here",
-    "convert": "Convert Now",
-    "howTitle": "How To Convert PDF to Word",
-    "steps": [
-      "Drag and drop your PDF file, or choose it from your device.",
-      "Pick Word as the output format.",
-      "Press CONVERT NOW and wait a few seconds.",
-      "Download your editable DOCX — nothing leaves your device."
     ]
   },
   "pricing": {

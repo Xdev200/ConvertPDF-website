@@ -8,107 +8,380 @@
   },
   "skip": "Lewati ke konten",
   "nav": {
-    "tools": "Alat",
-    "merge": "Gabung PDF",
-    "sign": "Tanda Tangan PDF",
     "pricing": "Harga",
-    "files": "File Saya",
-    "login": "Dukungan",
-    "signup": "Dapatkan app",
-    "language": "Bahasa"
+    "support": "Dukungan",
+    "getApp": "Dapatkan app"
   },
   "hero": {
     "title": "Semua <b>Alat PDF Online</b> dalam Satu Tempat.",
     "text": "Kami membuat alat PDF untuk mempermudah hidup Anda. Konversi file ke PDF dan dari PDF, gabungkan, isi, tanda tangani, dan kompres PDF hanya dengan beberapa klik — langsung di Mac atau iPhone Anda.",
-    "explore": "Jelajahi Alat",
-    "demo": "Coba demo"
+    "explore": "Jelajahi Alat"
   },
   "tools": {
-    "title": "Alat PDF Terpopuler",
-    "all": "Lihat semua 91 alat",
+    "title": "Semua Alat PDF",
+    "note": "Semua 90 alat berjalan offline di perangkat Anda. Dapatkan aplikasinya.",
+    "cta": "Dapatkan App",
     "items": [
       [
-        "Word ke PDF",
-        "Konversi file Word DOC dan DOCX menjadi PDF."
+        "Atur (Multi Alat)",
+        "Susun ulang, putar, dan hapus halaman secara visual"
       ],
       [
-        "PDF ke Word",
-        "Ubah PDF Anda menjadi dokumen DOC atau DOCX yang dapat diedit."
+        "Merge PDFs",
+        "Merge several PDF files into one single document."
       ],
       [
-        "Excel ke PDF",
-        "Konversi spreadsheet Excel ke PDF agar mudah dibagikan."
+        "Pisahkan PDF",
+        "Ekstrak halaman atau rentang halaman"
       ],
       [
-        "PDF ke Excel",
-        "Ambil tabel dari PDF ke dalam spreadsheet Excel."
+        "Extract PDF",
+        "Split your PDF and extract only the pages you want."
       ],
       [
-        "PDF ke PowerPoint",
-        "Ubah PDF menjadi presentasi PPT dan PPTX yang dapat diedit."
+        "Hapus Halaman",
+        "Hapus halaman yang tidak diperlukan"
       ],
       [
-        "PDF ke EPUB",
-        "Ubah PDF menjadi e-book alir ulang atau tata letak tetap untuk pembaca apa pun."
+        "Balik Halaman",
+        "Balik urutan halaman"
       ],
       [
-        "PowerPoint ke PDF",
-        "Konversi slideshow PowerPoint ke PDF agar mudah dibagikan."
+        "Putar Halaman",
+        "90°, 180°, atau sudut kustom apa pun"
+      ],
+      [
+        "Tambah Halaman Kosong",
+        "Sisipkan halaman kosong di mana saja"
+      ],
+      [
+        "Selang-seling & Campur",
+        "Selingi halaman dari 2+ PDF"
+      ],
+      [
+        "Bagi Halaman",
+        "Potong setiap halaman menjadi 2 atau 4 bagian"
+      ],
+      [
+        "N-Up / Gabung Kisi",
+        "Beberapa halaman per lembar"
+      ],
+      [
+        "Buklet PDF",
+        "Imposisi untuk cetak lipat"
+      ],
+      [
+        "Hapus Halaman Kosong",
+        "Deteksi dan buang halaman kosong"
+      ],
+      [
+        "Pangkas PDF",
+        "Pangkas margin atau ruang kosong otomatis"
+      ],
+      [
+        "Samakan Ukuran Halaman",
+        "Jadikan semua halaman berukuran sama"
+      ],
+      [
+        "Penanda",
+        "Tambah, daftar, atau hapus entri kerangka"
+      ],
+      [
+        "Daftar Isi",
+        "Buat halaman daftar isi yang bisa diklik"
+      ],
+      [
+        "Metadata",
+        "Lihat, ubah, atau hapus info dokumen"
+      ],
+      [
+        "Dimensi Halaman",
+        "Ukuran setiap halaman"
+      ],
+      [
+        "Bandingkan PDF",
+        "Temukan perbedaan teks dan visual"
+      ],
+      [
+        "PDF ke ZIP",
+        "Kemas PDF (atau tiap halaman) dalam ZIP"
+      ],
+      [
+        "Pembaca PDF",
+        "Lihat, cari, dan perbesar PDF"
       ],
       [
         "Gambar ke PDF",
-        "Konversi JPG, PNG, BMP, dan banyak format gambar lain ke PDF."
-      ],
-      [
-        "PDF ke Gambar",
-        "Ubah dan ekstrak setiap halaman PDF Anda menjadi gambar."
-      ],
-      [
-        "PNG ke PDF",
-        "Ubah gambar PNG Anda menjadi file PDF yang mudah dibaca."
-      ],
-      [
-        "PDF ke PNG",
-        "Ekstrak setiap halaman PDF Anda dan ubah menjadi PNG."
+        "Convert JPG, PNG, BMP and many more image formats to PDF."
       ],
       [
         "JPG ke PDF",
-        "Konversi file JPG dan JPEG ke PDF dalam hitungan detik."
+        "Ubah gambar JPG menjadi PDF"
+      ],
+      [
+        "PNG ke PDF",
+        "Ubah gambar PNG menjadi PDF"
+      ],
+      [
+        "WebP ke PDF",
+        "Ubah gambar WebP menjadi PDF"
       ],
       [
         "BMP ke PDF",
-        "Konversi gambar BMP Anda menjadi dokumen PDF dengan mudah."
+        "Ubah gambar BMP menjadi PDF"
       ],
       [
-        "Tanda Tangan PDF",
-        "Buat tanda tangan digital Anda sendiri dan tanda tangani PDF secara online."
+        "HEIC ke PDF",
+        "Ubah gambar HEIC menjadi PDF"
       ],
       [
-        "Isi Formulir PDF",
-        "Tambahkan teks ke PDF dan isi kolom kosong pada formulir Anda."
+        "TIFF ke PDF",
+        "Ubah gambar TIFF menjadi PDF"
       ],
       [
-        "Gabung PDF",
-        "Gabungkan beberapa file PDF menjadi satu dokumen."
+        "Teks ke PDF",
+        "Teks biasa dengan halaman otomatis"
       ],
       [
-        "Ekstrak PDF",
-        "Pisahkan PDF Anda dan ekstrak hanya halaman yang diinginkan."
+        "JSON ke PDF",
+        "JSON yang dirapikan"
+      ],
+      [
+        "Markdown ke PDF",
+        "Judul, daftar, kode, dan huruf tebal"
+      ],
+      [
+        "RTF ke PDF",
+        "Teks kaya mempertahankan font dan gaya"
+      ],
+      [
+        "SVG ke PDF",
+        "Gambar vektor tetap vektor"
+      ],
+      [
+        "Word ke PDF",
+        "Convert Word DOC and DOCX formats to PDF files."
+      ],
+      [
+        "Excel ke PDF",
+        "Convert Excel spreadsheets to PDF and make them easy to share."
+      ],
+      [
+        "PowerPoint ke PDF",
+        "Convert PowerPoint slideshows to PDF for easy sharing."
+      ],
+      [
+        "XPS ke PDF",
+        "XPS / OXPS"
+      ],
+      [
+        "EPUB ke PDF",
+        "E-book"
+      ],
+      [
+        "MOBI ke PDF",
+        "Buku Kindle (tanpa proteksi)"
+      ],
+      [
+        "FB2 ke PDF",
+        "FictionBook"
+      ],
+      [
+        "PSD ke PDF",
+        "File Photoshop"
+      ],
+      [
+        "CBZ ke PDF",
+        "Arsip komik"
+      ],
+      [
+        "Email ke PDF",
+        "Pesan EML"
+      ],
+      [
+        "PDF ke Gambar",
+        "Convert and extract each page of your PDF into images."
+      ],
+      [
+        "PDF ke BMP",
+        "Ekspor halaman sebagai BMP"
+      ],
+      [
+        "PDF ke TIFF",
+        "Ekspor halaman sebagai TIFF"
+      ],
+      [
+        "PDF ke WebP",
+        "Ekspor halaman sebagai WebP"
+      ],
+      [
+        "PDF ke Teks",
+        "Ekstrak semua teks sebagai .txt"
+      ],
+      [
+        "PDF ke Markdown",
+        "Teks per halaman sebagai .md"
+      ],
+      [
+        "PDF ke JSON",
+        "Teks dan metadata sebagai JSON"
+      ],
+      [
+        "PDF to Word",
+        "Convert your PDF to an editable DOC or DOCX document."
+      ],
+      [
+        "PDF to Excel",
+        "Pull tables out of a PDF into an Excel spreadsheet."
+      ],
+      [
+        "Ekstrak Tabel",
+        "Tabel berbasis teks ke CSV"
+      ],
+      [
+        "OCR PDF",
+        "Jadikan PDF hasil pindai dapat dicari"
+      ],
+      [
+        "Ekstrak Gambar",
+        "Simpan gambar tersemat"
+      ],
+      [
+        "Ekstrak Lampiran",
+        "Simpan file tersemat"
+      ],
+      [
+        "PDF ke PowerPoint",
+        "Transform PDF into editable PPT and PPTX presentations."
+      ],
+      [
+        "PDF ke EPUB",
+        "Turn a PDF into a reflowable or fixed-layout e-book for any reader."
+      ],
+      [
+        "Tambah Teks",
+        "Tempatkan teks pada halaman"
+      ],
+      [
+        "Sorot & Garis Bawah",
+        "Tandai setiap kemunculan suatu frasa"
+      ],
+      [
+        "Tanda Tangani PDF",
+        "Create your own digital signature and sign PDF files on your device."
+      ],
+      [
+        "Watermark",
+        "Teks atau gambar di belakang/atas halaman"
+      ],
+      [
+        "Nomor Halaman",
+        "Beri nomor setiap halaman"
+      ],
+      [
+        "Header & Footer",
+        "Teks di bagian atas dan bawah"
+      ],
+      [
+        "Stempel",
+        "DISETUJUI, DRAF, RAHASIA…"
+      ],
+      [
+        "Warna Latar",
+        "Beri warna pada latar halaman"
+      ],
+      [
+        "Warna Teks",
+        "Ganti warna teks dan garis gelap"
+      ],
+      [
+        "Balik Warna",
+        "Halaman ramah mode gelap"
+      ],
+      [
+        "Hapus Anotasi",
+        "Hapus komentar dan markah"
+      ],
+      [
+        "Fill PDF Form",
+        "Add text to a PDF and fill in the empty fields of your form."
+      ],
+      [
+        "Ratakan PDF",
+        "Gabungkan anotasi dan formulir ke halaman"
+      ],
+      [
+        "Kompres PDF",
+        "Perkecil ukuran PDF"
+      ],
+      [
+        "Perbaiki PDF",
+        "Bangun ulang file yang rusak"
+      ],
+      [
+        "Rasterisasi PDF",
+        "Ubah halaman menjadi gambar datar"
+      ],
+      [
+        "Posterisasi",
+        "Kurangi menjadi nada datar ala poster"
+      ],
+      [
+        "PDF ke Skala Abu-abu",
+        "Hapus semua warna"
+      ],
+      [
+        "Optimalkan untuk Web (simpan ulang)",
+        "Tulis ulang struktur file"
+      ],
+      [
+        "Arsip bergaya PDF/A",
+        "Simpan ulang dengan metadata, tidak divalidasi"
+      ],
+      [
+        "Teks ke Gambar (tanpa font)",
+        "Hilangkan ketergantungan font"
+      ],
+      [
+        "Luruskan",
+        "Luruskan halaman hasil pindai"
+      ],
+      [
+        "Penampil Layer (OCG)",
+        "Daftar layer PDF"
+      ],
+      [
+        "Enkripsi PDF",
+        "Wajibkan kata sandi untuk membuka"
+      ],
+      [
+        "Dekripsi PDF",
+        "Hapus kata sandi yang Anda ketahui"
+      ],
+      [
+        "Hapus Pembatasan",
+        "Hapus batasan cetak/salin/edit"
+      ],
+      [
+        "Ubah Izin",
+        "Izinkan/tolak cetak, salin, edit"
+      ],
+      [
+        "Bersihkan PDF",
+        "Buang metadata, skrip & lampiran"
+      ],
+      [
+        "Cari & Sensor",
+        "Hitamkan teks secara permanen"
+      ],
+      [
+        "Tanda Tangan Digital",
+        "Tanda tangani & verifikasi (integritas)"
+      ],
+      [
+        "Tambah Lampiran",
+        "Sematkan file ke dalam PDF"
       ]
-    ]
-  },
-  "converter": {
-    "title": "Konversi <b>PDF</b> ke <b>Word</b> dalam Hitungan Detik",
-    "demo": "Hanya demo — tidak berfungsi",
-    "choose": "Pilih File",
-    "drop": "atau jatuhkan file di sini",
-    "convert": "Konversi Sekarang",
-    "howTitle": "Cara Mengonversi PDF ke Word",
-    "steps": [
-      "Seret dan lepas file PDF Anda, atau pilih dari perangkat Anda.",
-      "Pilih Word sebagai format keluaran.",
-      "Tekan KONVERSI SEKARANG dan tunggu beberapa detik.",
-      "Unduh DOCX yang dapat diedit — tidak ada yang keluar dari perangkat Anda."
     ]
   },
   "pricing": {

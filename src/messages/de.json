@@ -8,107 +8,380 @@
   },
   "skip": "Zum Inhalt springen",
   "nav": {
-    "tools": "Tools",
-    "merge": "PDF zusammenführen",
-    "sign": "PDF signieren",
     "pricing": "Preise",
-    "files": "Meine Dateien",
-    "login": "Support",
-    "signup": "App holen",
-    "language": "Sprache"
+    "support": "Support",
+    "getApp": "App holen"
   },
   "hero": {
     "title": "Ihre All-in-One <b>Online-PDF-Tools.</b>",
     "text": "Wir entwickeln PDF-Tools, die Ihnen das Leben leichter machen. Dateien in PDF und aus PDF konvertieren, zusammenführen, ausfüllen, signieren und komprimieren – mit wenigen Klicks, direkt auf Ihrem Mac oder iPhone.",
-    "explore": "Tools entdecken",
-    "demo": "Demo ausprobieren"
+    "explore": "Tools entdecken"
   },
   "tools": {
-    "title": "Beliebteste PDF-Tools",
-    "all": "Alle 91 Tools ansehen",
+    "title": "Alle PDF-Tools",
+    "note": "Alle 90 Tools laufen offline auf Ihrem Gerät. Holen Sie sich die App.",
+    "cta": "App holen",
     "items": [
       [
-        "Word in PDF",
-        "Word-Dateien (DOC und DOCX) in PDF umwandeln."
+        "Organisieren (Multi-Tool)",
+        "Seiten visuell neu anordnen, drehen und löschen"
       ],
       [
-        "PDF in Word",
-        "Ihr PDF in ein bearbeitbares DOC- oder DOCX-Dokument umwandeln."
+        "Merge PDFs",
+        "Merge several PDF files into one single document."
       ],
       [
-        "Excel in PDF",
-        "Excel-Tabellen in PDF umwandeln und einfach teilen."
+        "PDF teilen",
+        "Seiten oder Seitenbereiche extrahieren"
       ],
       [
-        "PDF in Excel",
-        "Tabellen aus einem PDF in eine Excel-Tabelle übernehmen."
+        "Extract PDF",
+        "Split your PDF and extract only the pages you want."
       ],
       [
-        "PDF in PowerPoint",
-        "PDF in bearbeitbare PPT- und PPTX-Präsentationen umwandeln."
+        "Seiten löschen",
+        "Nicht benötigte Seiten entfernen"
       ],
       [
-        "PDF in EPUB",
-        "PDF in ein umfließendes E-Book oder eines mit festem Layout für jeden Reader umwandeln."
+        "Seiten umkehren",
+        "Seitenreihenfolge umdrehen"
       ],
       [
-        "PowerPoint in PDF",
-        "PowerPoint-Präsentationen zum einfachen Teilen in PDF umwandeln."
+        "Seiten drehen",
+        "90°, 180° oder ein beliebiger Winkel"
+      ],
+      [
+        "Leere Seiten hinzufügen",
+        "Leere Seiten an beliebiger Stelle einfügen"
+      ],
+      [
+        "Abwechseln & Mischen",
+        "Seiten aus 2 oder mehr PDFs abwechselnd zusammenführen"
+      ],
+      [
+        "Seiten teilen",
+        "Jede Seite in 2 oder 4 Teile schneiden"
+      ],
+      [
+        "N-Up / Raster-Kombination",
+        "Mehrere Seiten pro Blatt"
+      ],
+      [
+        "PDF-Broschüre",
+        "Seitenanordnung für gefalteten Druck"
+      ],
+      [
+        "Leere Seiten entfernen",
+        "Leere Seiten erkennen und entfernen"
+      ],
+      [
+        "PDF zuschneiden",
+        "Ränder beschneiden oder Weißraum automatisch entfernen"
+      ],
+      [
+        "Seitengröße angleichen",
+        "Alle Seiten auf dieselbe Größe bringen"
+      ],
+      [
+        "Lesezeichen",
+        "Gliederungseinträge hinzufügen, auflisten oder entfernen"
+      ],
+      [
+        "Inhaltsverzeichnis",
+        "Klickbare Inhaltsseite erzeugen"
+      ],
+      [
+        "Metadaten",
+        "Dokumentinfos ansehen, bearbeiten oder entfernen"
+      ],
+      [
+        "Seitenmaße",
+        "Größen aller Seiten"
+      ],
+      [
+        "PDFs vergleichen",
+        "Text- und visuelle Unterschiede finden"
+      ],
+      [
+        "PDF in ZIP",
+        "PDFs (oder jede Seite) in einer ZIP-Datei bündeln"
+      ],
+      [
+        "PDF-Reader",
+        "PDF ansehen, durchsuchen und zoomen"
       ],
       [
         "Bilder in PDF",
-        "JPG, PNG, BMP und viele weitere Bildformate in PDF umwandeln."
-      ],
-      [
-        "PDF in Bilder",
-        "Jede Seite Ihres PDFs in Bilder umwandeln und extrahieren."
-      ],
-      [
-        "PNG in PDF",
-        "Ihre PNG-Bilder in gut lesbare PDF-Dateien umwandeln."
-      ],
-      [
-        "PDF in PNG",
-        "Jede Seite Ihres PDFs extrahieren und in PNG umwandeln."
+        "Convert JPG, PNG, BMP and many more image formats to PDF."
       ],
       [
         "JPG in PDF",
-        "JPG- und JPEG-Dateien in wenigen Sekunden in PDF umwandeln."
+        "JPG-Bilder in ein PDF umwandeln"
+      ],
+      [
+        "PNG in PDF",
+        "PNG-Bilder in ein PDF umwandeln"
+      ],
+      [
+        "WebP in PDF",
+        "WebP-Bilder in ein PDF umwandeln"
       ],
       [
         "BMP in PDF",
-        "Ihre BMP-Bilder einfach in PDF-Dokumente umwandeln."
+        "BMP-Bilder in ein PDF umwandeln"
+      ],
+      [
+        "HEIC in PDF",
+        "HEIC-Bilder in ein PDF umwandeln"
+      ],
+      [
+        "TIFF in PDF",
+        "TIFF-Bilder in ein PDF umwandeln"
+      ],
+      [
+        "Text in PDF",
+        "Reiner Text mit automatischem Seitenumbruch"
+      ],
+      [
+        "JSON in PDF",
+        "Formatiertes JSON"
+      ],
+      [
+        "Markdown in PDF",
+        "Überschriften, Listen, Code und Fettdruck"
+      ],
+      [
+        "RTF in PDF",
+        "Rich Text behält Schriften und Stile bei"
+      ],
+      [
+        "SVG in PDF",
+        "Vektorbilder bleiben Vektoren"
+      ],
+      [
+        "Word in PDF",
+        "Convert Word DOC and DOCX formats to PDF files."
+      ],
+      [
+        "Excel in PDF",
+        "Convert Excel spreadsheets to PDF and make them easy to share."
+      ],
+      [
+        "PowerPoint in PDF",
+        "Convert PowerPoint slideshows to PDF for easy sharing."
+      ],
+      [
+        "XPS in PDF",
+        "XPS / OXPS"
+      ],
+      [
+        "EPUB in PDF",
+        "E-Books"
+      ],
+      [
+        "MOBI in PDF",
+        "Kindle-Bücher (ungeschützt)"
+      ],
+      [
+        "FB2 in PDF",
+        "FictionBook"
+      ],
+      [
+        "PSD in PDF",
+        "Photoshop-Dateien"
+      ],
+      [
+        "CBZ in PDF",
+        "Comic-Archive"
+      ],
+      [
+        "E-Mail in PDF",
+        "EML-Nachrichten"
+      ],
+      [
+        "PDF in Bilder",
+        "Convert and extract each page of your PDF into images."
+      ],
+      [
+        "PDF in BMP",
+        "Seiten als BMP exportieren"
+      ],
+      [
+        "PDF in TIFF",
+        "Seiten als TIFF exportieren"
+      ],
+      [
+        "PDF in WebP",
+        "Seiten als WebP exportieren"
+      ],
+      [
+        "PDF in Text",
+        "Gesamten Text als .txt extrahieren"
+      ],
+      [
+        "PDF in Markdown",
+        "Text pro Seite als .md"
+      ],
+      [
+        "PDF in JSON",
+        "Text und Metadaten als JSON"
+      ],
+      [
+        "PDF to Word",
+        "Convert your PDF to an editable DOC or DOCX document."
+      ],
+      [
+        "PDF to Excel",
+        "Pull tables out of a PDF into an Excel spreadsheet."
+      ],
+      [
+        "Tabellen extrahieren",
+        "Textbasierte Tabellen als CSV"
+      ],
+      [
+        "PDF per OCR",
+        "Gescannte PDFs durchsuchbar machen"
+      ],
+      [
+        "Bilder extrahieren",
+        "Eingebettete Bilder speichern"
+      ],
+      [
+        "Anhänge extrahieren",
+        "Eingebettete Dateien speichern"
+      ],
+      [
+        "PDF in PowerPoint",
+        "Transform PDF into editable PPT and PPTX presentations."
+      ],
+      [
+        "PDF in EPUB",
+        "Turn a PDF into a reflowable or fixed-layout e-book for any reader."
+      ],
+      [
+        "Text hinzufügen",
+        "Text auf Seiten platzieren"
+      ],
+      [
+        "Markieren & Unterstreichen",
+        "Jedes Vorkommen einer Wortgruppe markieren"
       ],
       [
         "PDF signieren",
-        "Erstellen Sie Ihre digitale Signatur und signieren Sie PDFs online."
+        "Create your own digital signature and sign PDF files on your device."
       ],
       [
-        "PDF-Formular ausfüllen",
-        "Text zu einem PDF hinzufügen und leere Formularfelder ausfüllen."
+        "Wasserzeichen",
+        "Text oder Bild hinter/über den Seiten"
       ],
       [
-        "PDFs zusammenführen",
-        "Mehrere PDF-Dateien zu einem einzigen Dokument zusammenführen."
+        "Seitenzahlen",
+        "Jede Seite nummerieren"
       ],
       [
-        "PDF-Seiten extrahieren",
-        "PDF teilen und nur die gewünschten Seiten extrahieren."
+        "Kopf- & Fußzeile",
+        "Text oben und unten"
+      ],
+      [
+        "Stempel",
+        "GENEHMIGT, ENTWURF, VERTRAULICH …"
+      ],
+      [
+        "Hintergrundfarbe",
+        "Seitenhintergrund einfärben"
+      ],
+      [
+        "Textfarbe",
+        "Dunklen Text und Linien umfärben"
+      ],
+      [
+        "Farben umkehren",
+        "Seiten für den Dunkelmodus"
+      ],
+      [
+        "Kommentare entfernen",
+        "Kommentare und Markierungen entfernen"
+      ],
+      [
+        "Fill PDF Form",
+        "Add text to a PDF and fill in the empty fields of your form."
+      ],
+      [
+        "PDF verflachen",
+        "Kommentare und Formulare in die Seiten einbinden"
+      ],
+      [
+        "PDF komprimieren",
+        "PDFs verkleinern"
+      ],
+      [
+        "PDF reparieren",
+        "Beschädigte Datei neu aufbauen"
+      ],
+      [
+        "PDF rastern",
+        "Seiten in flache Bilder umwandeln"
+      ],
+      [
+        "Tontrennung",
+        "Auf flache Plakattöne reduzieren"
+      ],
+      [
+        "PDF in Graustufen",
+        "Alle Farben entfernen"
+      ],
+      [
+        "Für Web optimieren (neu speichern)",
+        "Dateistruktur neu schreiben"
+      ],
+      [
+        "Archiv im PDF/A-Stil",
+        "Neu speichern mit Metadaten, nicht validiert"
+      ],
+      [
+        "Text zu Bild (ohne Schriften)",
+        "Schriftabhängigkeit entfernen"
+      ],
+      [
+        "Begradigen",
+        "Gescannte Seiten begradigen"
+      ],
+      [
+        "Ebenen-Anzeige (OCG)",
+        "PDF-Ebenen auflisten"
+      ],
+      [
+        "PDF verschlüsseln",
+        "Passwort zum Öffnen verlangen"
+      ],
+      [
+        "PDF entschlüsseln",
+        "Ein bekanntes Passwort entfernen"
+      ],
+      [
+        "Einschränkungen entfernen",
+        "Druck-/Kopier-/Bearbeitungsbeschränkungen aufheben"
+      ],
+      [
+        "Berechtigungen ändern",
+        "Drucken, Kopieren, Bearbeiten erlauben/verbieten"
+      ],
+      [
+        "PDF bereinigen",
+        "Metadaten, Skripte & Anhänge entfernen"
+      ],
+      [
+        "Suchen & Schwärzen",
+        "Text dauerhaft schwärzen"
+      ],
+      [
+        "Digitale Signatur",
+        "Signieren & prüfen (Integrität)"
+      ],
+      [
+        "Anhänge hinzufügen",
+        "Dateien in ein PDF einbetten"
       ]
-    ]
-  },
-  "converter": {
-    "title": "<b>PDF</b> in Sekunden in <b>Word</b> umwandeln",
-    "demo": "Nur Demo – ohne Funktion",
-    "choose": "Dateien auswählen",
-    "drop": "oder Datei hierher ziehen",
-    "convert": "Jetzt umwandeln",
-    "howTitle": "So wandeln Sie PDF in Word um",
-    "steps": [
-      "Ziehen Sie Ihre PDF-Datei hierher oder wählen Sie sie auf Ihrem Gerät aus.",
-      "Wählen Sie Word als Ausgabeformat.",
-      "Klicken Sie auf „Jetzt umwandeln“ und warten Sie einige Sekunden.",
-      "Laden Sie Ihr bearbeitbares DOCX herunter – nichts verlässt Ihr Gerät."
     ]
   },
   "pricing": {
