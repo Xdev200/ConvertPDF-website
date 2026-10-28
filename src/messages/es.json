@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "ConvertPDF – Todas tus herramientas PDF en línea",
-    "description": "Convierte, une, firma y comprime PDF con unos pocos clics.",
+    "description": "Más de 90 herramientas PDF en tu dispositivo. Lo esencial gratis; ConvertPDF Lifetime desbloquea todo por $4.99 una vez — reembolso de 14 días sin preguntas. Sin subidas. iPhone, iPad y Mac.",
     "privacyTitle": "Política de privacidad – ConvertPDF",
-    "termsTitle": "Condiciones de uso – ConvertPDF",
-    "supportTitle": "Support – ConvertPDF"
+    "termsTitle": "Términos de uso – ConvertPDF",
+    "supportTitle": "Soporte – ConvertPDF"
   },
   "skip": "Saltar al contenido",
   "nav": {
@@ -13,8 +13,8 @@
     "sign": "Firmar PDF",
     "pricing": "Precios",
     "files": "Mis archivos",
-    "login": "Iniciar sesión",
-    "signup": "Registrarse",
+    "login": "Soporte",
+    "signup": "Obtener app",
     "language": "Idioma"
   },
   "hero": {
@@ -112,39 +112,35 @@
     ]
   },
   "pricing": {
-    "title": "Precios sencillos",
-    "note": "Precios de ejemplo — los planes finales se anunciarán más adelante.",
-    "popular": "Más popular",
+    "title": "Precios simples",
+    "note": "100 % sin conexión. Las herramientas básicas siguen gratis. Desbloquea todas las avanzadas para siempre con una compra — sin suscripción ni prueba gratis.",
+    "popular": "Mejor valor",
+    "refundBadge": "Reembolso total 14 días · sin preguntas",
     "plans": [
       {
         "name": "Gratis",
-        "unit": "/mes",
+        "price": "$0",
+        "unit": "para siempre",
         "features": [
-          "Herramientas básicas",
-          "Funciona en tu dispositivo",
-          "Velocidad estándar"
+          "Combinar, Dividir, Comprimir",
+          "Imágenes ↔ PDF, Organizar",
+          "100 % en tu dispositivo",
+          "Sin cuenta"
         ],
-        "cta": "Obtener Gratis"
+        "cta": "Obtener la app"
       },
       {
-        "name": "Pro",
-        "unit": "/mes",
+        "name": "Lifetime Pro",
+        "price": "$4.99",
+        "unit": "una vez",
         "features": [
-          "Las 91 herramientas",
-          "Procesamiento por lotes",
-          "Soporte prioritario"
+          "Las 90+ herramientas para siempre",
+          "OCR, Firmar, Proteger, Redactar",
+          "Word, Excel, EPUB y lotes",
+          "Una compra Universal (iPhone, iPad, Mac)",
+          "Reembolso incondicional 14 días"
         ],
-        "cta": "Obtener Pro"
-      },
-      {
-        "name": "Equipo",
-        "unit": "/usuario/mes",
-        "features": [
-          "Ajustes compartidos",
-          "Controles de administrador",
-          "Soporte prioritario"
-        ],
-        "cta": "Contáctanos"
+        "cta": "Desbloquear Lifetime — $4.99"
       }
     ]
   },
@@ -153,29 +149,41 @@
     "items": [
       [
         "¿Se suben mis archivos?",
-        "No. ConvertPDF procesa los archivos en tu dispositivo."
+        "No. Todo se procesa en tu dispositivo."
       ],
       [
-        "¿Es realmente gratis?",
-        "El plan Gratis incluye las herramientas básicas. Los precios de Pro y Equipo son de ejemplo."
+        "¿Es gratis?",
+        "Las herramientas básicas son gratis para siempre. ConvertPDF Lifetime desbloquea lo avanzado por $4.99 una sola vez — sin suscripción ni prueba."
       ],
       [
-        "¿Qué plataformas son compatibles?",
-        "macOS e iOS, además de este sitio web."
+        "¿Qué es ConvertPDF Lifetime?",
+        "Compra no consumible única en App Store ($4.99). Desbloquea Pro para siempre en iPhone, iPad y Mac con el mismo Apple ID."
       ],
       [
-        "¿Puedo usarlo sin conexión?",
-        "Sí, las apps funcionan sin conexión a internet."
+        "¿Hay prueba gratis?",
+        "No. Sin prueba y sin suscripción de renovación automática."
+      ],
+      [
+        "¿Política de reembolso?",
+        "14 días: reembolso total sin preguntas. Soporte o Informar un problema de Apple."
+      ],
+      [
+        "¿Plataformas?",
+        "iPhone, iPad y Mac (Universal Purchase)."
+      ],
+      [
+        "¿Offline?",
+        "Sí. Comprar/restaurar requiere red brevemente vía Apple."
       ]
     ]
   },
   "cta": {
-    "title": "Haz crecer tu negocio, <b>con facilidad.</b>",
-    "button": "Empezar"
+    "title": "Desbloquea todo, <b>una vez.</b>",
+    "button": "Ver precios"
   },
   "apps": {
     "title": "Consigue las apps de ConvertPDF",
-    "note": "Enlaces de ejemplo — las apps aún no están publicadas.",
+    "note": "Próximamente en App Store — Universal Purchase. Básico gratis; Lifetime Pro $4.99 una vez.",
     "mac": [
       "Descargar para Mac",
       "macOS 13 o posterior"
@@ -199,126 +207,160 @@
   },
   "privacy": {
     "title": "Política de privacidad",
-    "updated": "octubre de 2026 (borrador)",
+    "updated": "28 de octubre de 2026",
+    "refundHighlight": "Compras: ConvertPDF Lifetime es una compra única de $4.99 (no suscripción). Sin prueba. Pago por Apple. Reembolso total 14 días sin preguntas.",
     "sections": [
       [
-        "Resumen",
-        "ConvertPDF («nosotros») respeta tu privacidad. ConvertPDF procesa tus archivos de forma local en tu dispositivo. No subimos, almacenamos ni vemos tus documentos."
+        "Overview",
+        "ConvertPDF (“we”, “us”) respects your privacy. The ConvertPDF apps process your files locally on your device. We do not upload, store, or view your documents."
       ],
       [
-        "Tus archivos",
-        "La conversión, unión, división, compresión y firma se realizan en tu dispositivo. Tus archivos no se envían a nuestros servidores."
+        "Your files",
+        "Conversion, merging, splitting, compression, OCR, redaction, annotation, and signing happen on your device. Your files are not transmitted to our servers for processing."
       ],
       [
-        "Información que podemos recopilar",
+        "Information we may collect",
         [
-          "Datos básicos de uso o fallos, no identificativos, solo si das tu consentimiento.",
-          "Información de compra y licencia gestionada por la tienda de aplicaciones o el proveedor de pagos.",
-          "Información que nos envíes al contactar con soporte."
+          "We do not require an account to use the apps or to unlock Lifetime after purchase (Restore uses your Apple ID via Apple).",
+          "Optional, non-identifying crash or diagnostics data only if you opt in through the system or App Store.",
+          "Purchase / licence status for ConvertPDF Lifetime is handled by Apple In-App Purchase. We do not receive your full payment card details.",
+          "Information you choose to send when contacting support (for example an email about a refund request)."
         ]
       ],
       [
-        "Sitio web",
-        "Este sitio web puede usar cookies esenciales y analítica respetuosa con la privacidad. [Describir las herramientas reales antes del lanzamiento.]"
+        "Payments and refunds",
+        "ConvertPDF Lifetime is a one-time non-consumable purchase priced at $4.99 USD (local currency may vary on the App Store). There is no subscription and no free trial. Apple bills the purchase. Our customer promise: within 14 days of purchase we support a full refund for any reason with no questions asked, via Support and/or Apple’s Report a Problem. Refunds are completed through Apple’s payment system."
       ],
       [
-        "Compartición",
-        "No vendemos información personal. Podemos compartir datos limitados con proveedores de servicios que nos ayudan a operar el producto, o cuando la ley lo exija."
+        "Website",
+        "This marketing website does not require a login and does not process your PDF files. We may use essential hosting cookies. We do not sell personal information from this site."
       ],
       [
-        "Conservación y seguridad",
-        "Conservamos datos limitados solo el tiempo necesario y aplicamos medidas de protección razonables."
+        "Sharing",
+        "We do not sell personal information. We may share limited operational data with service providers who host this website, or where required by law. Apple processes App Store payments under Apple’s privacy policy."
       ],
       [
-        "Tus derechos",
-        "Según dónde vivas, puedes tener derecho a acceder a tus datos personales, rectificarlos o eliminarlos. Contáctanos para ejercerlos."
+        "Retention and security",
+        "App document processing stays on-device. Any support emails you send (including refund requests) are kept only as long as needed to help you."
       ],
       [
-        "Menores",
-        "ConvertPDF no está dirigido a menores de 13 años."
+        "Your rights",
+        "Depending on where you live, you may have rights to access, correct, or delete personal data you sent us. Contact us to exercise them."
       ],
       [
-        "Cambios",
-        "Podemos actualizar esta política y publicaremos aquí la nueva fecha."
+        "Children",
+        "ConvertPDF is not directed to children under 13."
       ],
       [
-        "Contacto",
-        "[marcador de correo de contacto]"
+        "Changes",
+        "We may update this policy and will post the new date here."
+      ],
+      [
+        "Contact",
+        "Privacy or refund questions: https://convertpdf.taqnik.in/en/support or support@convertpdf.app. You can also use App Store correspondence once the app is published."
       ]
     ]
   },
   "terms": {
-    "title": "Condiciones de uso",
-    "updated": "octubre de 2026 (borrador)",
+    "title": "Términos de uso",
+    "updated": "28 de octubre de 2026",
+    "refundHighlight": "REEMBOLSO INCONDICIONAL 14 DÍAS: Puedes pedir reembolso total por cualquier motivo en 14 días — sin preguntas. Soporte o Informar un problema de Apple.",
     "sections": [
       [
-        "Aceptación",
-        "Al usar ConvertPDF o este sitio web aceptas estas condiciones. Si no estás de acuerdo, no los uses."
+        "Acceptance",
+        "By using the ConvertPDF apps or this website you agree to these terms. If you do not agree, do not use them."
       ],
       [
-        "Licencia",
-        "Te concedemos una licencia limitada, no exclusiva, intransferible y revocable para usar ConvertPDF con fines personales o comerciales internos, según tu plan."
+        "Licence",
+        "We grant you a limited, non-exclusive, non-transferable, revocable licence to use ConvertPDF for personal or internal business purposes, subject to Apple’s App Store terms. Free tier tools may be used without purchase. ConvertPDF Lifetime is a paid licence that unlocks all advanced tools forever on devices signed in with the purchasing Apple ID (Universal Purchase: iPhone, iPad, and Mac)."
       ],
       [
-        "Uso aceptable",
+        "ConvertPDF Lifetime (one-time purchase)",
         [
-          "No uses ConvertPDF con fines ilícitos ni para infringir los derechos de otros.",
-          "No realices ingeniería inversa ni revendas la app, salvo en los casos permitidos por la ley."
+          "Product name: ConvertPDF Lifetime (also marketed as Lifetime Pro).",
+          "Price: $4.99 USD once (App Store local pricing may differ).",
+          "Type: Non-consumable In-App Purchase — not an auto-renewing subscription.",
+          "No free trial, no intro offer, and no “cancel anytime” subscription billing.",
+          "Restore Purchases recovers your unlock on other devices under the same Apple ID."
         ]
       ],
       [
-        "Tu contenido",
-        "Conservas todos los derechos sobre tus archivos y eres responsable de tener derecho a procesarlos."
+        "14-day unconditional refund (highlighted)",
+        "Within fourteen (14) days of your ConvertPDF Lifetime purchase, you may request a full refund for any reason with no questions asked. Use the Support page or Apple’s Report a Problem. We will approve/support refunds under this policy. Actual refund of payment is processed by Apple under App Store rules; we do not bypass Apple’s payment system."
       ],
       [
-        "Planes y pagos",
-        "Los planes de pago se facturan a través de la tienda de aplicaciones o el proveedor de pagos correspondiente. Los precios y las funciones pueden cambiar. [Marcador de condiciones de reembolso.]"
+        "On-device processing",
+        "The apps are designed to process files on your device (100% offline for tools). You remain responsible for your files and for lawful use of the tools. A network connection is only needed to buy or restore via Apple."
       ],
       [
-        "Exención de responsabilidad",
-        "ConvertPDF se proporciona «tal cual», sin garantías de ningún tipo. Haz copias de seguridad de tus archivos importantes."
+        "Acceptable use",
+        [
+          "Do not use ConvertPDF for unlawful purposes or to infringe others’ rights.",
+          "Do not reverse engineer or resell the app except as allowed by law."
+        ]
       ],
       [
-        "Limitación de responsabilidad",
-        "En la máxima medida permitida por la ley, no somos responsables de daños indirectos o consecuentes ni de la pérdida de datos."
+        "Your content",
+        "You retain all rights to your files and are responsible for having the right to process them."
       ],
       [
-        "Terminación",
-        "Podemos suspender el acceso si incumples estas condiciones."
+        "Plans and payments",
+        "There is no subscription. Optional ConvertPDF Lifetime is billed once through Apple In-App Purchase. Website pricing describes the intended App Store offer. Apple’s standard refund mechanisms also apply in addition to our 14-day promise."
       ],
       [
-        "Ley aplicable",
-        "[Marcador de jurisdicción.]"
+        "Disclaimer",
+        "ConvertPDF is provided “as is” without warranties of any kind. Keep backups of important files."
       ],
       [
-        "Contacto",
-        "[marcador de correo de contacto]"
+        "Limitation of liability",
+        "To the maximum extent permitted by law, we are not liable for indirect or consequential damages or data loss."
+      ],
+      [
+        "Termination",
+        "We may suspend access if you breach these terms. A valid Lifetime purchase remains subject to Apple’s licence terms."
+      ],
+      [
+        "Governing law",
+        "These terms are governed by the laws applicable in your place of residence and Apple’s App Store terms where relevant."
+      ],
+      [
+        "Contact",
+        "Questions and refunds: https://convertpdf.taqnik.in/en/support or support@convertpdf.app."
       ]
     ]
   },
   "support": {
-    "title": "Support",
-    "updated": "October 27, 2026",
+    "title": "Soporte",
+    "updated": "28 de octubre de 2026",
+    "refundHighlight": "Reembolsos: 14 días tras comprar ConvertPDF Lifetime ($4.99). Sin suscripción ni prueba.",
     "sections": [
       [
         "How to get help",
-        "ConvertPDF is a native iPhone, iPad, and Mac app. For help with the app, use the App Store product page (Ratings & Reviews or the Support link once published), or email us."
+        "ConvertPDF is a native iPhone, iPad, and Mac app. For help, use App Store Ratings & Reviews / Support once published, or email us. Include device model, OS version, and a short description — do not attach confidential PDFs."
+      ],
+      [
+        "Purchases & ConvertPDF Lifetime",
+        "ConvertPDF Lifetime is a one-time $4.99 unlock (non-consumable). Use Restore Purchases in the app if the unlock is missing after reinstall. Purchases are billed by Apple."
+      ],
+      [
+        "14-day refunds",
+        "Full refund within 14 days of purchase, any reason, no questions asked. Email support or use reportaproblem.apple.com. We honor this policy; Apple completes the payment refund."
       ],
       [
         "App Store",
-        "Search for “ConvertPDF” on the App Store after release, open the product page, and use Apple’s support / review channels. Universal Purchase covers iPhone, iPad, and Mac."
+        "Search for “ConvertPDF” on the App Store after release. Universal Purchase covers iPhone, iPad, and Mac."
       ],
       [
         "Email",
-        "support@convertpdf.app — placeholder mailbox until the live inbox is configured. Include your device model, OS version, and a short description of the issue. Do not attach confidential PDFs."
+        "support@convertpdf.app — provisional until the live inbox is confirmed."
       ],
       [
         "Privacy & files",
-        "We cannot recover files from your device. ConvertPDF does not upload documents to our servers, so support cannot access your PDFs."
+        "We cannot recover files from your device. ConvertPDF does not upload documents to our servers."
       ],
       [
         "Website",
-        "This site hosts Privacy Policy, Terms of Use, and Support for App Store Connect. It does not process PDFs in the browser for production use."
+        "https://convertpdf.taqnik.in hosts Privacy, Terms, and Support for App Store Connect. It does not process PDFs in the browser for production use."
       ]
     ]
   }

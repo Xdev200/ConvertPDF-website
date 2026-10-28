@@ -10,6 +10,6 @@ export default function Nav({ l, m }: { l: Locale; m: Messages }) {
         <span>Convert<span className="text-brand">PDF</span></span></Link>
       <nav aria-label="Main" className="hidden items-center gap-7 text-sm font-medium text-navy lg:flex">
         {[["#tools",n.tools],["#merge",n.merge],["#sign",n.sign],["#pricing",n.pricing],["#files",n.files]].map(([h,t])=>(<a key={h} href={`/${l}${h}`} className="hover:text-brand">{t}</a>))}</nav>
-      <div className="flex items-center gap-3 text-sm font-semibold sm:gap-4"><LangSwitcher l={l} label={n.language} /><a href={`/${l}#files`} className="hidden text-navy hover:text-brand sm:inline">{n.login}</a><a href={`/${l}#pricing`} className="btn !px-5 !py-2">{n.signup}</a></div>
+      <div className="flex items-center gap-3 text-sm font-semibold sm:gap-4"><LangSwitcher l={l} label={n.language} /><Link href={`/${l}/support`} className="hidden text-navy hover:text-brand sm:inline">{n.login}</Link><a href={`/${l}#pricing`} className="btn !px-5 !py-2">{n.signup}</a></div>
     </div></header>);
 }
