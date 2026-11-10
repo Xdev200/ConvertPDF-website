@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import AppStoreCta from "./AppStoreCta";
 
 type Item = [string, string];
 
@@ -70,9 +71,9 @@ export default function ToolsGrid({
               <h3 className="text-sm font-semibold text-navy">{name}</h3>
             </div>
             <p className="mt-2 text-xs leading-relaxed text-muted">{desc}</p>
-            <a href="#apps" className="mt-3 inline-block text-xs font-semibold text-brand hover:underline">
+            <AppStoreCta className="mt-3 inline-block text-xs font-semibold text-brand hover:underline" ariaLabel={`${cta} — App Store, iPhone and Mac`}>
               {cta} <span aria-hidden className="inline-block rtl:rotate-180">→</span>
-            </a>
+            </AppStoreCta>
           </li>
         ))}
         {visible < items.length ? (

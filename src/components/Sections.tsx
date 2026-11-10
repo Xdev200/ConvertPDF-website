@@ -1,4 +1,5 @@
 import { rich, type Messages } from "@/lib/i18n";
+import AppStoreCta, { IosIcon, MacIcon } from "./AppStoreCta";
 import ToolsGrid from "./ToolsGrid";
 
 type P = { m: Messages };
@@ -57,9 +58,13 @@ export function Pricing({ m }: P) {
                     </li>
                   ))}
                 </ul>
-                <a href="#apps" className={`${hot ? "btn" : "btn-o"} mt-6 w-full`}>
+                <AppStoreCta
+                  className={`${hot ? "btn" : "btn-o"} mt-6 w-full gap-2`}
+                  icons
+                  ariaLabel={`${pl.cta} — App Store, iPhone and Mac`}
+                >
                   {pl.cta}
-                </a>
+                </AppStoreCta>
               </div>
             );
           })}
@@ -96,9 +101,9 @@ export function Cta({ m }: P) {
       <div className="wrap py-12">
         <div className="flex flex-col items-start justify-between gap-6 rounded-md bg-ink px-8 py-10 md:flex-row md:items-center">
           <h2 className="text-3xl font-bold text-white">{rich(m.cta.title, "text-[#7FA8FF]")}</h2>
-          <a href="#pricing" className="btn !px-8">
+          <AppStoreCta className="btn !px-8 gap-2" icons ariaLabel={`${m.cta.button} — App Store, iPhone and Mac`}>
             {m.cta.button}
-          </a>
+          </AppStoreCta>
         </div>
       </div>
     </section>
@@ -108,31 +113,35 @@ export function Cta({ m }: P) {
 export function Apps({ m }: P) {
   const a = m.apps;
   const cards = [
-    [a.mac[0], a.mac[1], "⌘"],
-    [a.ios[0], a.ios[1], "▢"],
-  ] as const;
+    { title: a.mac[0], sub: a.mac[1], icon: <MacIcon className="h-5 w-5" />, label: `${a.mac[0]} — App Store` },
+    { title: a.ios[0], sub: a.ios[1], icon: <IosIcon className="h-5 w-5" />, label: `${a.ios[0]} — App Store` },
+  ];
   return (
     <section id="apps" className="bg-bg">
       <div className="wrap py-16 text-center">
         <h2 className="text-2xl font-semibold md:text-3xl">{a.title}</h2>
         <p className="mt-2 text-sm text-muted">{a.note}</p>
         <div className="mt-8 flex flex-wrap justify-center gap-4">
-          {cards.map(([t, s, ic]) => (
-            <div key={t} className="card flex min-w-[240px] items-center gap-4 !py-4 text-start">
+          {cards.map((c) => (
+            <AppStoreCta
+              key={c.title}
+              className="card flex min-w-[240px] items-center gap-4 !py-4 text-start transition hover:border-brand"
+              ariaLabel={c.label}
+            >
               <span aria-hidden className="grid h-10 w-10 place-items-center rounded bg-ink text-white">
-                {ic}
+                {c.icon}
               </span>
               <span>
-                <span className="block text-sm font-semibold">{t}</span>
-                <span className="block text-xs text-muted">{s}</span>
+                <span className="block text-sm font-semibold">{c.title}</span>
+                <span className="block text-xs text-muted">{c.sub}</span>
               </span>
-            </div>
+            </AppStoreCta>
           ))}
         </div>
         <p className="mt-6">
-          <a href="#pricing" className="btn !px-8">
+          <AppStoreCta className="btn !px-8 gap-2" icons ariaLabel={`${m.nav.getApp} — App Store, iPhone and Mac`}>
             {m.nav.getApp}
-          </a>
+          </AppStoreCta>
         </p>
       </div>
     </section>

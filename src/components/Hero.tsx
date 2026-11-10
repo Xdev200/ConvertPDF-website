@@ -1,6 +1,7 @@
 "use client";
 import dynamic from "next/dynamic";
 import { rich, type Messages } from "@/lib/i18n";
+import AppStoreCta from "./AppStoreCta";
 
 const Hero3D = dynamic(() => import("./Hero3D"), {
   ssr: false,
@@ -19,9 +20,13 @@ export default function Hero({ m }: { m: Messages }) {
             <a href="#tools" className="btn">
               {h.explore}
             </a>
-            <a href="#apps" className="btn-o">
+            <AppStoreCta
+              className="btn-o gap-2"
+              icons
+              ariaLabel={`${m.nav.getApp} — App Store, iPhone and Mac`}
+            >
               {m.nav.getApp}
-            </a>
+            </AppStoreCta>
           </div>
         </div>
         <Hero3D />

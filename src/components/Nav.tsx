@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Locale, Messages } from "@/lib/i18n";
+import AppStoreCta from "./AppStoreCta";
 
 export default function Nav({ l, m }: { l: Locale; m: Messages }) {
   const n = m.nav;
@@ -15,9 +16,14 @@ export default function Nav({ l, m }: { l: Locale; m: Messages }) {
           </span>
         </Link>
         <nav aria-label="Main" className="flex items-center gap-4 text-sm font-semibold sm:gap-6">
-          <a href={`/${l}#apps`} className="text-navy hover:text-brand">
+          <AppStoreCta
+            className="inline-flex items-center gap-1.5 text-navy hover:text-brand"
+            icons
+            iconClassName="h-4 w-4 shrink-0"
+            ariaLabel={`${n.getApp} — App Store, iPhone and Mac`}
+          >
             {n.getApp}
-          </a>
+          </AppStoreCta>
           <a href={`/${l}#pricing`} className="text-navy hover:text-brand">
             {n.pricing}
           </a>
